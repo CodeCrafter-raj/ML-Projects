@@ -1,0 +1,2011 @@
+degree,water,plot,mitti,N,P,K,ph,plant,pro
+28.5,1200, small, Clay soil,90,42,43,6.5, Wheat,3000
+32.1,800, medium, Sandy Soil,85,58,41,7.2, Rice,5000
+25.6,900, big, Loamy Soil,60,55,44,5.8, Maize,6000
+29.3,1100, small, Clay soil,74,35,40,6, Barley,2500
+30.2,1000, medium, Sandy Soil,78,42,42,6.2, Sugarcane,8000
+27.8,1400, big, Loamy Soil,69,37,42,7, Cotton,3500
+31.5,700, small, Clay,69,55,38,6.8, Soybean,2000
+6.4,800, medium, Sandy,94,53,40,6.5, Groundnut,3000
+28.7,1200, big, Loamy,89,54,38,6.8, Sunflower,4500
+29.9,1000, small, Clay,68,58,38,6, Potato,5000
+27.6,900, small, Loamy,91,53,40,7, Wheat,2700
+31.2,850, medium, Sandy,90,46,42,6.5, Rice,4800
+25.4,1000, big, Clay,78,58,44,5.8, Maize,5500
+29,1200, small, Loamy,93,56,36,4, Barley,2200
+30.5,1100, medium, Clay,94,50,37,7.5, Sugarcane,7500
+28.2,1300, big, Sandy,60,48,39,6, Cotton,3400
+31.9,750, small, Loamy,85,38,41,6.9, Soybean,1900
+26.9,850, medium, Clay,91,35,39,6.3, Groundnut,2800
+28,1150, big, Sandy,77,38,36,7.5, Sunflower,4200
+30.1,900, small, Clay,88,35,40,6.8, Potato,4800
+31.9,750, small, Loamy,89,45,36,7, Soybean,1900
+26.9,850, medium, Clay,76,40,43,6.5, Groundnut,2800
+28,1150, big, Sandy,67,59,41,7.2, Sunflower,4200
+30.1,900, small, Clay,83,41,43,5.8, Potato,4800
+28.9,950, small, Sandy,98,47,37,6, Wheat,2900
+32.8,750, medium, Loamy,66,53,41,6.2, Rice,5100
+25.3,1100, big, Sandy,97,59,43,7, Maize,5800
+29.5,1050, small, Clay,97,50,41,6.8, Barley,2600
+29.8,1250, medium, Loamy,60,49,44,6.5, Sugarcane,8200
+27.4,1350, big, Clay,84,51,35,6.8, Cotton,3300
+28.5,1200, small, Clay,73,57,41,6, Wheat,3100
+32.1,800, medium, Sandy,92,35,40,7, Rice,5000
+25.6,900, big, Loamy,85,37,39,6.5, Maize,6400
+29.3,1100, small, Clay,98,53,38,5.8, Barley,2600
+30.2,1000, medium, Sandy,88,54,44,4, Sugarcane,8200
+27.8,1400, big, Loamy,95,55,42,7.5, Cotton,3600
+31.5,700, small, Clay,99,57,35,6, Soybean,2200
+26.4,800, medium, Sandy,95,39,36,6.9, Groundnut,3300
+28.7,1200, big, Loamy,60,43,44,6.3, Sunflower,4800
+29.9,1000, small, Clay,63,44,41,7.5, Potato,5100
+30.9,750,small,Clay,62,42,36,6.8,Soybean,1900
+26.2,850,medium,Sandy,64,45,43,7,Groundnut,3400
+28.9,1150,big,Loamy,83,60,36,6.5,Sunflower,4900
+29.2,950,small,Clay,82,40,40,7.2,Potato,5200
+29.8,1250,small,Clay,85,52,45,5.8,Wheat,3300
+31.9,800,medium,Sandy,91,35,38,6,Rice,5300
+25.5,950,big,Loamy,76,49,42,6.2,Maize,6200
+28.8,1100,small,Clay,74,39,38,7,Barley,2800
+30.1,1000,medium,Sandy,79,43,39,6.8,Sugarcane,8300
+27.7,1300,big,Loamy,88,55,45,6.5,Cotton,3900
+28.5,1200,small,Clay,60,36,43,6.8,Wheat,2900
+32.1,800,medium,Sandy,76,60,39,6,Rice,5100
+25.6,900,big,Loamy,93,56,42,7,Maize,6050
+29.3,1100,small,Clay,65,60,43,6.5,Barley,2550
+30.2,1000,medium,Sandy,95,52,36,5.8,Sugarcane,8200
+27.8,1400,big,Loamy,75,38,39,4,Cotton,3400
+31.5,700,small,Clay,74,54,38,7.5,Soybean,1950
+26.4,800,medium,Sandy,91,36,45,6,Groundnut,3100
+28.7,1200,big,Loamy,71,46,40,6.9,Sunflower,4520
+26.4,800,medium,Sandy,99,55,35,6.3,Groundnut,3100
+28.7,1200,big,Loamy,72,40,38,7.5,Sunflower,4520
+29.9,1000,small,Clay,83,58,45,6.8,Potato,5080
+27.3,900,small,Loamy,93,58,38,7,Wheat,3010
+33.4,850,big,Clay,70,36,42,6.5,Rice,5300
+26.1,950,medium,Sandy,76,47,42,7.2,Maize,6200
+29.8,1050,small,Loamy,99,41,36,5.8,Barley,2600
+31.2,1200,medium,Clay,99,54,37,6,Sugarcane,8300
+28.9,1300,big,Sandy,86,59,35,6.2,Cotton,3600
+32.7,750,small,Loamy,69,46,41,7,Soybean,2000
+27.1,850,medium,Clay,91,56,37,6.8,Groundnut,3200
+30.1,1150,big,Sandy,61,52,41,6.5,Sunflower,4600
+30.5,950,small,Loamy,67,45,38,6.8,Potato,5100
+28.8,1250,small,Sandy,79,42,37,6,Wheat,2950
+31.9,900,big,Clay,78,43,42,7,Rice,5200
+25.8,1000,medium,Loamy,75,54,36,6.5,Maize,6100
+29.5,1000,small,Sandy,97,36,45,5.8,Barley,2700
+30.6,1100,medium,Clay,67,47,44,4,Sugarcane,8400
+28.1,1350,big,Loamy,73,35,38,7.5,Cotton,3550
+28.5,1200,small,Clay,77,36,37,6,Wheat,2900
+32.1,800,medium,Sandy,81,41,38,6.9,Rice,5100
+25.6,900,big,Loamy,68,57,43,6.3,Maize,6050
+29.3,1100,small,Clay,72,45,35,7.5,Barley,2550
+30.2,1000,medium,Sandy,61,53,43,6.8,Sugarcane,8200
+27.8,1400,big,Loamy,67,43,39,7,Cotton,3400
+29.9,1000,small,Clay,67,58,39,6.5,Potato,5080
+27.3,900,small,Loamy,66,60,38,7.2,Wheat,3010
+33.4,850,big,Clay,82,43,38,5.8,Rice,5300
+26.1,950,medium,Sandy,84,50,44,6,Maize,6200
+29.8,1050,small,Loamy,81,53,42,6.2,Barley,2600
+31.2,1200,medium,Clay,91,50,40,7,Sugarcane,8300
+28.9,1300,big,Sandy,93,53,38,6.8,Cotton,3600
+32.7,750,small,Loamy,90,44,38,6.5,Soybean,2000
+27.1,850,medium,Clay,81,45,35,6.8,Groundnut,3200
+30.1,1150,big,Sandy,78,40,38,6,Sunflower,4600
+30.5,950,small,Loamy,60,51,36,7,Potato,5100
+28.8,1250,small,Sandy,88,46,42,6.5,Wheat,2950
+31.9,900,big,Clay,93,47,37,5.8,Rice,5200
+25.8,1000,medium,Loamy,60,55,45,4,Maize,6100
+29.5,1000,small,Sandy,78,35,44,7.5,Barley,2700
+30.6,1100,medium,Clay,65,37,40,6,Sugarcane,8400
+28.1,1350,big,Loamy,71,54,16,6.9,Cotton,3550
+28.5,1200,small,Clay,61,44,17,6.3,Maize,5800
+32.1,800,medium,Sandy,80,43,16,7.5,Soybean,4200
+25.6,900,big,Loamy,73,58,21,6.8,Sorghum,3100
+29.3,1100,small,Clay,61,38,20,7,Sunflower,4500
+30.2,1000,medium,Sandy,68,41,16,6.5,Peanut,3100
+27.8,1400,big,Loamy,93,41,17,7.2,Cotton,3900
+31.5,700,small,Clay,89,60,19,5.8,Potato,4200
+26.4,800,medium,Sandy,76,44,17,6,Sugarcane,7100
+28.7,1200,big,Loamy,67,60,25,6.2,Tomato,5500
+29.9,1000,small,Clay,70,44,19,7,Onion,3900
+27.3,900,small,Loamy,90,49,21,6.8,Barley,3800
+33.4,850,big,Clay,62,52,16,6.5,Mustard,3100
+26.1,950,medium,Sandy,92,44,16,6.8,Peas,3700
+29.8,1050,small,Loamy,66,54,21,6,Lentils,2700
+31.2,1200,medium,Clay,63,58,22,7,Chickpea,3900
+28.9,1300,big,Sandy,70,47,17,6.5,Okra,3200
+32.7,750,small,Loamy,61,41,17,5.8,Cotton,4000
+27.1,850,medium,Clay,66,53,19,4,Soybean,4100
+30.1,1150,big,Sandy,74,55,19,7.5,Peanut,2800
+30.5,950,small,Loamy,77,57,21,6,Potato,4900
+28.8,1250,small,Sandy,99,50,15,6.9,Sunflower,4900
+31.9,900,big,Clay,74,56,22,6.3,Tomato,6000
+25.8,1000,medium,Loamy,83,45,21,7.5,Sorghum,3000
+29.5,1000,small,Sandy,100,48,16,6.8,Onion,4400
+30.6,1100,medium,Clay,79,51,16,7,Sugarcane,7800
+28.1,1350,big,Loamy,94,39,18,6.5,Mustard,3400
+28.5,1200,small,Clay soil,75,49,15,7.2,Maize,460
+33.4,850,big,Clay soil,78,48,22,5.8,Corn,6900
+26.1,950,medium,Sandy Soil,87,54,20,6,Peanuts,5100
+29.8,1050,small,loamy soil,87,35,25,6.2,Lentils,3600
+31.2,1200,medium,Clay soil,63,43,19,7,Sugarcane,9000
+28.9,1300,big,Sandy Soil,84,57,25,6.8,Millet,5800
+32.7,750,small,loamy soil,64,35,23,6.5,Soybean,4200
+27.1,850,medium,Clay,60,46,22,6.8,Groundnut,5400
+30.1,1150,big,Sandy,98,44,21,6,Sunflower,6700
+30.5,950,small,Loamy,75,56,18,7,Potato,5000
+28.8,1250,small,Sandy,86,55,21,6.5,Millet,4500
+31.9,900,big,Clay,98,35,18,5.8,Corn,7800
+25.8,1000,medium,Loamy,76,57,18,4,Peanuts,5200
+29.5,1000,small,Sandy,99,56,17,7.5,Chickpea,4000
+30.6,1100,medium,Clay,60,44,23,6,Sugarcane,9200
+28.1,1350,big,Loamy,74,48,17,6.9,Cotton,6300
+30,1200,Medium,Loam,89,60,17,6.3,Sugarcane,1200
+20,1600,Big,Red,69,51,23,7.5,Cotton,500
+28,1000,Small,Alluvial Soil,96,46,22,6.8,Tomato,600
+26,800,Medium,Black Soil,61,60,15,7,Groundnut,900
+29,1050,Big,Sandy Soil,74,58,18,6.5,Soybean,700
+24,180,Small,Clayey Soil,74,43,23,7.2,Potato,450
+32,900,Medium,Laterite Soil,63,43,17,5.8,Chickpea,1000
+31,700,Small,RedLoam,99,36,20,6,Mustard,800
+3,1000,Small,Alluvial Soil,77,36,23,6.2,Millets,300
+22,1500,Big,Black Soil,87,60,23,7,Cotton,400
+28,1000,Small,Red Soil,60,38,17,6.8,Tomato,700
+26,800,Medium,Clayey,94,54,17,6.5,Groundnut,1000
+27,950,Big,Alluvial,95,38,22,6.8,Soybean,900
+25,1020,Small,Sandy,84,44,21,6,Potato,600
+29,900,Medium,Laterite,77,58,19,7,Chickpea,1200
+30,700,Small,Red,66,44,20,6.5,Mustard,900
+23,1200,Small,Alluvial Soil,63,35,16,5.8,Millets,400
+31,1020,Medium,Clay soil,79,45,20,4,Sugarcane,1000
+21,1050,Big,Black Soil,72,60,25,7.5,Cotton,500
+28,1010,Small,Red Soil,67,51,24,6,Tomato,600
+27,800,Medium,clayey soil,86,36,24,6.9,Groundnut,800
+30,1020,Medium,Clay soil,76,48,18,6.3,Sugarcane,1200
+20,1200,Big,Red Soil,75,53,18,7.5,Cotton,500
+28,1010,Small,Alluvial Soil,81,45,23,6.8,Tomato,600
+37,980,Medium,Black Soil,73,45,21,7,Groundnut,900
+29,1050,Big,Sandy Soil,71,35,24,6.5,Soybean,700
+24,1080,Small,clayey soil,96,54,22,7.2,Potato,450
+32,900,Medium,Laterite,99,39,18,5.8,Chickpea,1000
+31,700,Small,Red,62,48,20,6,Mustard,800
+33.4,850,big,Clay,86,37,16,6.2,Corn,6900
+26.1,950,medium,Sandy,94,50,19,7,Peanuts,5100
+29.8,1050,small,Loamy,76,39,24,6.8,Lentils,3600
+31.2,1200,medium,Clay,77,52,17,6.5,Sugarcane,9000
+28.9,1300,big,Sandy,74,39,23,6.8,Millet,5800
+32.7,750,small,Loamy,81,49,20,6,Soybean,4200
+27.1,850,medium,Clay,63,42,21,7,Groundnut,5400
+30.1,1150,big,Sandy,99,38,21,6.5,Sunflower,6700
+30.5,950,small,Loamy,90,52,25,5.8,Potato,5000
+28.8,1250,small,Sandy,68,40,19,4,Millet,4500
+31.9,900,big,Clay,60,57,24,7.5,Corn,7800
+25.8,1000,medium,Loamy,71,52,18,6,Peanuts,5200
+29.5,1000,small,Sandy,61,59,17,6.9,Chickpea,4000
+30.6,1100,medium,Clay,88,38,15,6.3,Sugarcane,9200
+28.1,1350,big,Loamy,65,60,22,7.5,Cotton,6300
+30,1020,Medium,Clay Loam,78,37,22,6.8,Sugarcane,1200
+20,1200,Big,Red Loam,78,58,15,7,Cotton,500
+28,1100,Small,Alluvial   ,92,60,23,6.5,Tomato,600
+26,800,Medium,Black,79,59,17,7.2,Groundnut,900
+29,1050,Big,Sandy,91,55,15,5.8,Soybean,700
+24,1080,Small,Clayey,76,51,18,6,Potato,450
+32,900,Medium,Laterite,87,48,25,6.2,Chickpea,1000
+31,700,Small,Red Loam,71,60,22,7,Mustard,800
+3,1200,Small,Alluvial,90,57,24,6.8,Millets,300
+22,1050,Big,Black,67,35,22,6.5,Cotton,400
+28,1010,Small,Red,60,54,19,6.8,Tomato,700
+26,800,Medium,Clayey,83,58,23,6,Groundnut,1000
+27,1050,Big,Alluvial,83,57,19,7,Soybean,900
+25,1080,Small,Sandy,40,72,77,6.5,Potato,600
+29,900,Medium,Laterite,23,72,84,5.8,Chickpea,1200
+30,700,Small,Red Loam,39,58,85,4,Mustard,900
+23,1200,Small,Alluvial,22,72,85,7.5,Millets,400
+31,1120,Medium,Clay Loam,36,67,77,6,Sugarcane,1000
+21,1150,Big,Black,32,73,81,6.9,Cotton,500
+28,1010,Small,Red,58,70,84,6.3,Tomato,600
+27,800,Medium,Clayey,59,70,84,7.5,Groundnut,800
+30,1120,Medium,Clay Loam,42,62,75,6.8,Sugarcane,1200
+20,1200,Big,Red,28,74,81,7,Cotton,500
+28,1100,Small,Alluvial,58,66,79,6.5,Tomato,600
+26,1180,Medium,Black,43,66,79,7.2,Groundnut,900
+29,1510,Big,Sandy,58,63,81,5.8,Soybean,700
+24,1180,Small,Clayey,23,62,85,6,Potato,450
+32,900,Medium,Laterite,27,62,77,6.2,Chickpea,1000
+31,700,Small,Red Loam,28,72,84,7,Mustard,800
+21,1150,big, Black Soil,50,56,76,6.8,Papaya,500
+28,1000,small, Red Soil,39,71,84,6.5,Onion,600
+30,1020,medium, Clay Loam Soil,25,78,76,6.8,Sugarcane,1200
+20,1200,big, Red Soil,31,70,77,6,Cotton,500
+28,1010,small, Alluvial Soil,26,80,83,7,Tomato,600
+26,800,medium, Black Soil,25,68,77,6.5,Groundnut,900
+29,1150,big,Sandy Soil,31,78,76,5.8,Soybean,700
+24,1080,small, Clayey Soil,60,68,83,4,Potato,450
+32,900,medium, Laterite Soil,59,62,83,7.5,Chickpea,1000
+31,700,small, Red Loam,22,67,78,6,Mustard,800
+23,1200,small, Alluvial Soil,36,65,80,6.9,Millets,300
+22,1050,big, Black Soil,59,60,84,6.3,Peanuts,400
+28,1000,small, Red Soil,54,77,85,7.5,Eggplant,700
+27,1050,big, Alluvial Soil,43,68,81,6.8,Pigeon Pea,900
+25,1080,small, Sandy Soil,28,76,82,7,Okra,600
+29,900,medium, Laterite Soil,42,79,85,6.5,Lentil,1200
+30,700,small, Red Loam,32,60,83,7.2,Cabbage,900
+23,1200,small, Alluvial Soil,22,78,76,5.8,Radish,400
+31,1120,medium, Clay Loam,31,79,75,6,Pineapple,1000
+21,1050,big, Black Soil,28,58,81,6.2,Papaya,500
+29.1,820.5,medium, Clay Loam,57,58,77,7,Sugarcane,1525.1
+20.8,2030.4,big, Red Soil,49,55,78,6.8,Cotton,681.9
+27.6,1009.7,small, Alluvial Soil,46,76,77,6.5,Tomato,839.2
+26.3,723.1,medium, Black Soil,54,61,77,6.8,Groundnut,1073.7
+29.8,1406.3,big,Sandy Soil,38,60,76,6,Soybean,754.5
+24.1,1089.8,small, Clayey Soil,59,55,79,7,Potato,573.6
+32.2,904.5,medium, Laterite Soil,36,76,75,6.5,Chickpea,1734.9
+30.5,601.2,small, Red Loam,57,68,81,5.8,Mustard,995.7
+22.9,1210.6,small, Alluvial Soil,35,66,81,4,Millets,327.8
+22.1,1312.5,big, Black Soil,35,64,78,7.5,Peanuts,507.3
+27.7,1104.3,small, Red Soil,52,60,79,6,Eggplant,942.7
+30.5,601.2,small, Red Loam,27,76,83,6.9,Mustard,995.7
+22.9,1210.6,small, Alluvial Soil,57,60,84,6.3,Millets,327.8
+22.1,1132.5,big, Black Soil,52,68,78,7.5,Peanuts,507.3
+27.7,1104.3,small, Red Soil,43,79,79,6.8,Eggplant,942.7
+26.8,1150.1,big, Alluvial Soil,44,74,85,7,Pigeon Pea,1016.8
+24.5,1191.2,small, Sandy Soil,24,55,78,6.5,Okra,710.6
+28.7,870.3,medium, Laterite Soil,29,77,75,7.2,Lentil,1516.9
+30,1250,medium, Clay Loam,20,60,78,5.8,Sugarcane,1200
+20,1200,big, Red Soil,56,67,78,6,Cotton,500
+28,1000,small, Alluvial Soil,37,66,85,6.2,Tomato,600
+26,8000,medium, Black Soil,49,71,76,7,Groundnut,900
+29,1350,big, Sandy Soil,59,69,80,6.8,Soybean,700
+24,1080,small, Clayey Soil,20,79,77,6.5,Potato,450
+32,900,medium, Laterite Soil,24,56,85,6.8,Chickpea,1000
+23,1200, Small ,Alluvial Soil,51,72,75,6, Millets,300
+22,1050, Big ,Black Soil,57,73,85,7, Peanuts,400
+29,1020, Small, Red Soil,22,64,82,6.5, Eggplant,700
+28,1060, Big, Alluvial Soil,52,73,79,5.8, Pigeon Pea,900
+26,1080, Small, Sandy Soil,29,75,75,4, Okra,600
+32,900, Medium ,Laterite Soil,44,59,78,7.5, Lentil,1200
+29,700,Small,Red,41,69,82,6,Cabbage,1600
+23,1200, Small, Alluvial Soil,52,56,85,6.9, Radish,400
+31,1020, Medium, Clay Loam,34,76,80,6.3, Pineapple,1000
+21,1050, Big, Black Soil,42,74,83,7.5, Papaya,500
+28,1100, Small, Red Soil,34,71,79,6.8, Onion,600
+30,1120, Medium ,Clay Loam,27,73,79,7, Sugarcane,1200
+20,1200, Big ,Red Soil,30,70,79,6.5, Cotton,500
+28,1100, Small, Alluvial Soil,57,57,75,7.2, Tomato,600
+26,1030, Medium ,Black Soil,27,79,82,5.8, Groundnut,900
+29,1050, Big, Sandy Soil,32,71,85,6, Soybean,700
+24,1080, Small, Clayey Soil,31,76,82,6.2, Potato,450
+32,1090, Medium, Laterite Soil,33,75,84,7, Chickpea,1000
+31,1070, Small, Red Loam,47,80,77,6.8, Mustard,800
+23,1200, Small, Alluvial Soil,54,62,80,6.5, Millets,300
+22,1150, Big, Black Soil,47,79,78,6.8, Peanuts,400
+28,1100, Small, Red Soil,35,57,83,6, Eggplant,700
+27,1050, Big ,Alluvial Soil,53,73,77,7, Pigeon Pea,900
+25,1080, Small, Sandy Soil,45,61,78,6.5, Okra,600
+29,1090, Medium ,Laterite Soil,37,78,79,5.8, Lentil,1200
+30,1070, Small ,Red Loam,30,75,81,4, Cabbage,900
+23,1200, Small ,Alluvial Soil,37,55,82,7.5, Radish,400
+31,1020, Medium ,Clay Loam,53,65,76,6, Pineapple,1000
+21,1050, Big ,Black Soil,22,60,85,6.9, Papaya,500
+28,1000, Small, Red Soil,60,61,78,6.3, Onion,600
+27,1020, Medium, Clay Loam,42,67,77,7.5, Sugarcane,1100
+20,900, Big ,Red Soil,39,76,76,6.8, Cotton,450
+28,900, Small ,Alluvial Soil,35,63,76,7, Tomato,700
+26,800, Medium ,Black Soil,30,65,82,6.5, Groundnut,900
+30,1040, Big ,Sandy Soil,57,56,78,7.2, Soybean,750
+24,1080, Small, Clayey Soil,48,65,78,5.8, Potato,500
+32,800, Medium ,Laterite Soil,36,56,83,6, Chickpea,1200
+31,700, Small ,Red Loam,40,58,75,6.2, Mustard,850
+23,1090, Small ,Alluvial Soil,49,69,82,7, Millets,400
+22,1050, Big, Black Soil,13,60,25,6.8, Peanuts,350
+28,900, Small, Red Soil,25,70,16,6.5, Eggplant,800
+27,1040, Big ,Alluvial Soil,31,55,22,6.8, Pigeon Pea,1000
+24,1070, Small, Sandy Soil,40,64,16,6, Okra,650
+29,900, Medium ,Laterite Soil,2,61,20,7, Lentil,1050
+30,700, Small ,Red Loam,26,65,22,6.5, Cabbage,900
+23,1200, Small ,Alluvial Soil,17,57,21,5.8, Radish,450
+24,1070,small, Sandy Soil,26,80,18,4,Okra,650
+29,900,medium, Laterite Soil,17,59,17,7.5,Lentil,1050
+30,700,small, Red Loam,27,59,22,6,Cabbage,900
+23,1110,small, Alluvial Soil,28,58,24,6.9,Radish,450
+31,1200,medium, Clay Loam,25,57,19,6.3,Pineapple,1150
+21,1050,big, Black Soil,28,80,17,7.5,Papaya,500
+23,1204,small, Loamy Soil,25,60,22,6.8,Wheat,3475
+28,1100,big, Clay Loam,12,78,23,7,Maize,5055
+24,900,small, Red Soil,6,77,25,6.5,Cotton,3045
+25,1050,medium, Alluvial Soil,22,79,17,7.2,Sugarcane,7143
+26,1100,big, Sandy Soil,27,80,15,5.8,Soybean,2010
+28,1108,small,Red Loam,10,55,23,6,Tomato,4082
+24,1500,medium, Black Soil,23,65,20,6.2,Groundnut,3510
+30,1405,big, Laterite Soil,19,78,16,7,Potato,5055
+25,1305,small, Clayey Soil,19,65,25,6.8,Chickpea,4082
+30,1012,small, Alluvial Soil,22,70,19,6.5,Jowar,5055
+25,1018,big, Red Loam,37,64,22,6.8,Millets,1818
+26,990,medium, Black Soil,11,71,17,6,Peanuts,2893
+28,1150,big, Alluvial Soil,18,79,20,7,Eggplant,2607
+25,1230,small, Clay Loam,21,63,17,6.5,sunflower,800
+26,1120,medium, Sandy Soil,24,80,22,5.8,Pigeon Pea,3571
+30,1070,small, Alluvial Soil,34,60,22,4,Lentil,4857
+25,1000,big, Black Soil,16,75,21,7.5,Cabbage,3045
+26,1024,small,Small Red Soil,17,77,23,6,Beetroot,3571
+25,1000,medium, Clay Loam,37,72,18,6.9,Rice,1000
+27,1020,big, Red Soil,40,73,20,6.3,Maize,850
+20,720,small, Black Soil,9,77,17,7.5,Soybean,450
+28,990,medium, Alluvial Soil,1,62,23,6.8,Sugarcane,1100
+30,1040,small, Sandy Soil,33,59,22,7,Tomato,700
+24,1080,medium, Black Soil,23,59,19,6.5,Groundnut,900
+32,1080,big, Laterite Soil,6,62,22,7.2,Potato,1200
+25,1120,small, Red Soil,25,63,20,5.8,Chickpea,850
+23,1090,small, Alluvial Soil,7,79,23,6,Millets,400
+22,1050,big, Black Soil,8,72,17,6.2,Peanuts,350
+28,900,small, Red Loam,27,64,15,7,Eggplant,800
+27,1040,big, Alluvial Soil,28,66,23,6.8,Pigeon Pea,1000
+24,1070,small, Sandy Soil,32,57,18,6.5,Okra,650
+29,900,medium, Laterite Soil,27,56,22,6.8,Lentil,1050
+30,700,small, Red Loam,17,77,24,6,Cabbage,900
+23,1200,small, Alluvial Soil,0,65,15,7,Radish,450
+31,1020,medium, Clay Loam,13,72,21,6.5,Pineapple,1150
+21,1050,big, Black Soil,34,60,23,5.8,Papaya,500
+25,1000,medium, Clay Loam,9,80,19,4,Rice,1000
+27,1020,big, Red Soil,11,72,20,7.5,Maize,850
+20,1200,small, Black Soil,3,67,24,6,Soybean,450
+28,900,medium, Alluvial Soil,35,69,23,6.9,Sugarcane,1100
+30,1040,small, Sandy Soil,3,77,25,6.3,Tomato,700
+24,1080,medium, Black Soil,23,62,19,7.5,Groundnut,900
+32,980,big, Laterite Soil,22,71,17,6.8,Potato,1200
+25,1020,small, Red Soil,31,79,25,7,Chickpea,850
+23,1090,small, Alluvial Soil,34,59,18,6.5,Millets,400
+22,1050,big, Black Soil,12,63,17,7.2,Peanuts,350
+25.1,1574,big,clayey soil,27,56,20,5.8,potato,2100
+27.6,1645,small,sandy soil,7,63,24,6,sugarcane,4000
+26.3,911,medium,loamy soil,24,67,22,6.2,sugarcane,4800
+29.1,950,big,clayey soil,11,71,24,7,sugarcane,5500
+23.6,638.2,small,loamy soil,37,74,15,6.8,wheat,3138
+29.4,957.4,medium,sandy soil,25,76,24,6.5,rice,4431
+27.2,715.9,large,clayey soil,34,66,17,6.8,maize,6724
+24.8,812.6,small,sandy soil,20,69,15,6,barley,3241
+28.1,553.8,medium,loamy soil,37,65,16,7,soybean,2428
+26.5,709.6,large,clayey soil,18,74,15,6.5,sugarcane,8425
+22.7,472.3,small,sandy soil,4,67,25,5.8,potato,4566
+24.3,862.1,medium,loamy soil,37,56,25,4,cotton,5228
+27.9,589.8,large,clayey soil,5,59,15,7.5,tomato,9836
+26.4,700.1,small,sandy soil,11,61,21,6,peanut,3455
+29.8,912.6,medium,loamy soil,22,80,20,6.9,chilli,7346
+24.1,767.5,large,clayey soil,12,61,19,6.3,sorghum,6148
+26.9,541.7,small,sandy,5,74,21,7.5,onion,2567
+28.7,609.4,medium,loamy,27,69,22,6.8,banana,13629
+25.6,784.3,large,clayey,31,75,18,7,apple,20176
+27.3,681.8,small,sandy,36,68,20,6.5,mango,9631
+23.9,623.9,medium,loamy,5,65,16,7.2,papaya,7582
+25.1,810.5,large,clayey,32,79,15,5.8,guava,10589
+28.2,568.1,small,sandy,11,78,22,6,coffee,3124
+26.3,733.8,medium,loamy,0,55,22,6.2,tea,5216
+24.5,856.7,large,clayey,14,59,15,7,rubber,9237
+25.8,655.4,small,sandy,29,68,23,6.8,cabbage,4569
+27.6,713.1,medium,loamy,32,68,19,6.5,cauliflower,5498
+23.5,509.8,large,clayey,17,64,17,6.8,broccoli,392
+22.5,1050,small,clay,13,69,19,6,wheat,4000
+35,890,medium,sandy,14,67,22,7,rice,6000
+27.5,1025,big,loam,9,69,20,6.5,corn,8000
+30,1050,small,clay,20,73,22,5.8,soybeans,2000
+25,975,medium,sandy,40,78,20,4,barley,5000
+17.5,1000,big,loam,27,72,23,7.5,oats,3000
+28,1075,small,sandy,14,67,15,6,rye,4000
+32.5,1200,medium,loam,7,56,18,6.9,sorghum,7000
+29,1020,big,clay,27,65,18,6.3,sunflower,4000
+30,900,small,sandy,30,63,16,7.5,cotton,3000
+28,1075,medium,loam,37,70,25,6.8,sugarcane,9000
+24,800,big,clay,27,63,19,7,tobacco,2310
+15,1000,small,sandy,22,60,24,6.5,wheat,2000
+25,1200,medium,loamy soil,3,72,24,7.2,rice,4000
+20,1050,big,Clay soil,40,59,23,5.8,maize,3000
+22,1020,small,sandy soil,33,73,23,6,soybean,2500
+12,900,Medium,loamy soil,27,57,24,6.2,Oat,2400
+24,1080,Big,Clay soil,10,79,18,7,Sunflower,3500
+28,1250,Small,sandy soil,30,75,25,6.8,Peanut,4200
+20,1010,Medium,loamy soil,40,70,20,6.5,Lentil,2600
+22,1200,Big,Clay soil,38,55,19,6.8,Chickpea,2800
+16,1000,Small,sandy soil,35,58,20,6,Potato,2000
+24,1050,Medium,loamy soil,38,61,21,7,Sweetcorn,3200
+18,900,Big,Clay soil,33,58,24,6.5,Broccoli,2400
+20,1000,Small,Sandy,16,56,17,5.8,Cauliflower,2600
+16,800,Medium,loamy soil,31,72,17,4,Cabbage,2000
+12,600,Big,Clay soil,16,80,20,7.5,Carrot,1800
+24,1120,Small,sandy soil,27,72,17,6,Tomato,2800
+26,1050,Medium,loamy soil,40,62,19,6.9,Pepper,3200
+28,1080,Big,Clay soil,18,58,16,6.3,Eggplant,3800
+22,1020,Small,sandy soil,3,68,16,7.5,Cucumber,2700
+20,1000,Medium,loamy soil,26,67,24,6.8,Pumpkin,2400
+24,1050,Small,sandy soil,16,70,20,7,Muskmelon,3200
+18,800,Medium,loamy soil,24,63,19,6.5,Strawberry,2000
+16,760,Big,Clay soil,9,76,25,7.2,Blueberry,1800
+22,1200,Small,sandy soil,16,55,19,5.8,Raspberry,2700
+25.6,856.3,small,loam soil,28,75,21,6,wheat,2300
+22.1,667.8,medium,sandy soil,16,71,24,6.2,rice,750
+26.5,644.2,big,Clay soil,24,70,21,7,wheat,2700
+24.8,752.6,small,sandy soil,38,72,21,6.8,rice,300
+21.3,700.1,medium,loam soil,9,66,21,6.5,wheat,2600
+27.2,800.5,big,Clay soil,34,56,17,6.8,rice,1700
+25.9,7090,small,sandy soil,1,76,19,6,wheat,400
+23.4,600,medium,loam soil,6,69,19,7,rice,500
+26.8,700,big,clay,26,73,21,6.5,wheat,1900
+24.6,850,small,sandy,27,61,18,5.8,rice,1700
+20.9,73.9,medium,loam,27,71,23,4,wheat,650
+27.5,935,big,clay,36,61,21,7.5,rice,800
+25.2,1100,small,sandy,17,73,18,6,wheat,300
+22.7,1059.2,medium,loam,26,72,22,6.9,rice,2300
+26.1,1040.3,big,clay,17,64,16,6.3,wheat,2400
+23.8,849.7,small,sandy,14,74,19,7.5,rice,460
+21.1,772.4,medium,loam soil,39,60,15,6.8,wheat,1800
+27.8,734.2,big,Clay soil,6,66,15,7,rice,2600
+25.4,943.9,small,sandy soil,8,59,18,6.5,wheat,360
+20.5,750,Small,sandy soil,2,67,18,7.2,Wheat,750
+24.2,800,Medium,Clayey soil,1,76,17,5.8,Wheat,900
+18.9,350,Big,loamy soil,16,73,19,6,Wheat,650
+22.1,600,Small,sandy soil,23,75,25,6.2,Wheat,800
+25.3,900,Medium,clayey soil,32,70,20,7,Wheat,950
+27.8,1200,Big,loamy soil,28,59,22,6.8,Rice,1100
+29.5,1000,Small,sandy soil,5,62,23,6.5,Rice,900
+40,900,big,Clay soil,36,67,25,6.8,Ridge Gourd,4800
+26,1000,medium,loamy soil,1,66,23,6,Bottle Gourd,5400
+30,1000,small,sandy soil,24,73,20,7,Sponge Gourd,6500
+31,1100,medium,Clay soil,17,67,18,6.5,Lady Finger,4800
+28,1350,big,loamy soil,5,55,18,5.8,Bitter Gourd,3800
+32,900,big,Clay soil,5,56,24,4,Muskmelon,3600
+35,1000,medium,loamy soil,37,77,17,7.5,Watermelon,4900
+27,1500,small,Sandy Loam soil,13,73,20,6,maize,800
+25,1020,big,Red Sandy Soil,6,63,23,6.9,sunflower,600
+26,1070,medium,Black Clay soil,16,77,22,6.3,Jowar,1200
+28,1050,big, Laterite Soil,25,64,20,7.5,Sesame,500
+30,1020,medium,Sandy Loam soil,34,75,24,6.8,sugarcane,1500
+24,1120,big,Red Sandy Soil,20,77,23,7,sunflower,600
+30,1700,small,Red Loam,35,80,25,6.5,Mustard,900
+27,1170,medium,Black Clay soil,14,75,24,7.2,jowar,800
+28,1150,big,Lateritic,36,80,21,5.8,Sesame,500
+27,1110,small,Sandy Loam soil,7,77,18,6,Maize,800
+25,1200,big,Red Sandy Soil,29,78,25,6.2,sunflower,600
+26,1300,medium,Black Clay soil,30,60,21,7,Jowar,1200
+28,1500,big,Lateritic Soil,20,74,16,6.8,Sesame,500
+30,1200,medium,Sandy Loam soil,19,57,23,6.5,Sorghum,1500
+26,800,medium,clayey soil,3,60,19,6.8,Kidney Bean,1000
+26,200,big,clay,5,77,19,6,Watermelon,4200
+24,150,small,Sandy,5,68,20,7,Muskmelon,3200
+26,800,big,Red Sandy Soil,37,73,21,6.5,cotton,600
+26,1070,medium,Black Clay soil,9,59,24,5.8,Jowar,1100
+28,1050,big,Laterite Soil,20,72,15,4,Potato,1200
+30,1100,medium,Sandy Loam soil,31,56,23,7.5,sorghum,1400
+26,800,medium,Clayey soil,0,70,21,6,Kidney Bean,950
+25,1300,big,Red Sandy Soil,21,74,15,6.9,Watermelon,700
+27,1070,medium,Black Clay soil,13,67,18,6.3,Beetroot,850
+28,1100,big,Lateritic,27,74,20,7.5,Carrot,500
+25,1200,big,Red Sandy Soil,29,72,24,6.8,sunflower,600
+26,1070,medium,Black Clay soil,5,68,20,7,Jowar,1100
+28,150,big,Lateritic Soil,39,57,19,6.5,Sesame,550
+30,1100,medium,sandy soil,22,62,16,7.2,sorghum,1400
+28.5,1200, small, Clay soil,18,55,23,5.8,Maize,16450
+28.5,1200, small, Clay soil,39,77,21,6, Wheat,3000
+32.1,800, medium, Sandy Soil,13,75,20,6.2, Rice,5000
+25.6,900, big, Loamy Soil,27,71,24,7, Maize,6000
+29.3,1100, small, Clay soil,26,64,22,6.8, Barley,2500
+30.2,1000, medium, Sandy Soil,23,55,16,6.5, Sugarcane,8000
+27.8,1400, big, Loamy Soil,4,69,19,6.8, Cotton,3500
+31.5,700, small, Clay,20,67,19,6, Soybean,2000
+6.4,800, medium, Sandy,7,74,17,7, Groundnut,3000
+28.7,1200, big, Loamy,17,64,18,6.5, Sunflower,4500
+29.9,1000, small, Clay,35,71,17,5.8, Potato,5000
+27.6,900, small, Loamy,11,72,22,4, Wheat,2700
+31.2,850, medium, Sandy,20,60,22,7.5, Rice,4800
+25.4,1000, big, Clay,10,71,18,6, Maize,5500
+29,1200, small, Loamy,33,61,24,6.9, Barley,2200
+30.5,1100, medium, Clay,3,49,18,6.3, Sugarcane,7500
+28.2,1300, big, Sandy,22,59,23,7.5, Cotton,3400
+31.9,750, small, Loamy,36,58,25,6.8, Soybean,1900
+26.9,850, medium, Clay,4,43,18,7, Groundnut,2800
+28,1150, big, Sandy,29,54,16,6.5, Sunflower,4200
+30.1,900, small, Clay,32,43,22,7.2, Potato,4800
+31.9,750, small, Loamy,14,55,15,5.8, Soybean,1900
+26.9,850, medium, Clay,5,35,20,6, Groundnut,2800
+28,1150, big, Sandy,25,57,24,6.2, Sunflower,4200
+30.1,900, small, Clay,11,53,24,7, Potato,4800
+28.9,950, small, Sandy,40,49,17,6.8, Wheat,2900
+32.8,750, medium, Loamy,38,56,25,6.5, Rice,5100
+25.3,1100, big, Sandy,27,43,23,6.8, Maize,5800
+29.5,1050, small, Clay,24,38,22,6, Barley,2600
+29.8,1250, medium, Loamy,23,45,21,7, Sugarcane,8200
+27.4,1350, big, Clay,29,57,20,6.5, Cotton,3300
+28.5,1200, small, Clay,31,35,23,5.8, Wheat,3100
+32.1,800, medium, Sandy,0,55,25,4, Rice,5000
+25.6,900, big, Loamy,7,45,22,7.5, Maize,6400
+29.3,1100, small, Clay,17,58,25,6, Barley,2600
+30.2,1000, medium, Sandy,11,44,17,6.9, Sugarcane,8200
+27.8,1400, big, Loamy,22,49,22,6.3, Cotton,3600
+31.5,700, small, Clay,9,51,19,7.5, Soybean,2200
+26.4,800, medium, Sandy,28,48,15,6.8, Groundnut,3300
+28.7,1200, big, Loamy,26,50,19,7, Sunflower,4800
+29.9,1000, small, Clay,36,56,20,6.5, Potato,5100
+30.9,750,small,Clay,8,60,18,7.2,Soybean,1900
+26.2,850,medium,Sandy,24,37,21,5.8,Groundnut,3400
+28.9,1150,big,Loamy,22,43,24,6,Sunflower,4900
+29.2,950,small,Clay,36,43,24,6.2,Potato,5200
+29.8,1250,small,Clay,22,44,24,7,Wheat,3300
+31.9,800,medium,Sandy,17,43,22,6.8,Rice,5300
+25.5,950,big,Loamy,8,45,15,6.5,Maize,6200
+28.8,1100,small,Clay,7,56,23,6.8,Barley,2800
+30.1,1000,medium,Sandy,36,57,16,6,Sugarcane,8300
+27.7,1300,big,Loamy,11,45,19,7,Cotton,3900
+28.5,1200,small,Clay,6,36,22,6.5,Wheat,2900
+32.1,800,medium,Sandy,17,57,20,5.8,Rice,5100
+25.6,900,big,Loamy,4,47,20,4,Maize,6050
+29.3,1100,small,Clay,9,49,16,7.5,Barley,2550
+30.2,1000,medium,Sandy,25,51,24,6,Sugarcane,8200
+27.8,1400,big,Loamy,36,44,21,6.9,Cotton,3400
+31.5,700,small,Clay,21,38,20,6.3,Soybean,1950
+26.4,800,medium,Sandy,37,57,20,7.5,Groundnut,3100
+28.7,1200,big,Loamy,32,48,18,6.8,Sunflower,4520
+26.4,800,medium,Sandy,29,44,20,7,Groundnut,3100
+28.7,1200,big,Loamy,25,51,18,6.5,Sunflower,4520
+29.9,1000,small,Clay,10,44,24,7.2,Potato,5080
+27.3,900,small,Loamy,23,35,18,5.8,Wheat,3010
+33.4,850,big,Clay,9,60,23,6,Rice,5300
+26.1,950,medium,Sandy,3,58,21,6.2,Maize,6200
+29.8,1050,small,Loamy,22,42,22,7,Barley,2600
+31.2,1200,medium,Clay,12,39,21,6.8,Sugarcane,8300
+28.9,1300,big,Sandy,39,36,22,6.5,Cotton,3600
+32.7,750,small,Loamy,32,41,16,6.8,Soybean,2000
+27.1,850,medium,Clay,30,41,15,6,Groundnut,3200
+30.1,1150,big,Sandy,19,36,22,7,Sunflower,4600
+30.5,950,small,Loamy,4,46,15,6.5,Potato,5100
+28.8,1250,small,Sandy,21,39,20,5.8,Wheat,2950
+31.9,900,big,Clay,35,57,25,4,Rice,5200
+25.8,1000,medium,Loamy,22,55,24,7.5,Maize,6100
+29.5,1000,small,Sandy,35,51,17,6,Barley,2700
+30.6,1100,medium,Clay,17,56,17,6.9,Sugarcane,8400
+28.1,1350,big,Loamy,28,57,17,6.3,Cotton,3550
+28.5,1200,small,Clay,22,36,16,7.5,Wheat,2900
+32.1,800,medium,Sandy,11,41,19,6.8,Rice,5100
+25.6,900,big,Loamy,38,38,18,7,Maize,6050
+29.3,1100,small,Clay,23,37,24,6.5,Barley,2550
+30.2,1000,medium,Sandy,25,35,20,7.2,Sugarcane,8200
+27.8,1400,big,Loamy,40,45,20,5.8,Cotton,3400
+29.9,1000,small,Clay,23,58,19,6,Potato,5080
+27.3,900,small,Loamy,2,56,23,6.2,Wheat,3010
+33.4,850,big,Clay,3,56,17,7,Rice,5300
+26.1,950,medium,Sandy,26,51,25,6.8,Maize,6200
+29.8,1050,small,Loamy,39,42,20,6.5,Barley,2600
+31.2,1200,medium,Clay,27,59,20,6.8,Sugarcane,8300
+28.9,1300,big,Sandy,24,45,19,6,Cotton,3600
+32.7,750,small,Loamy,7,40,17,7,Soybean,2000
+27.1,850,medium,Clay,15,45,23,6.5,Groundnut,3200
+30.1,1150,big,Sandy,26,52,23,5.8,Sunflower,4600
+30.5,950,small,Loamy,20,45,16,4,Potato,5100
+28.8,1250,small,Sandy,34,54,24,7.5,Wheat,2950
+31.9,900,big,Clay,19,51,25,6,Rice,5200
+25.8,1000,medium,Loamy,29,41,21,6.9,Maize,6100
+29.5,1000,small,Sandy,20,50,22,6.3,Barley,2700
+30.6,1100,medium,Clay,11,40,23,7.5,Sugarcane,8400
+28.1,1350,big,Loamy,15,54,15,6.8,Cotton,3550
+28.5,1200,small,Clay,35,55,22,7,Maize,5800
+32.1,800,medium,Sandy,9,59,25,6.5,Soybean,4200
+25.6,900,big,Loamy,40,45,18,7.2,Sorghum,3100
+29.3,1100,small,Clay,35,38,19,5.8,Sunflower,4500
+30.2,1000,medium,Sandy,14,58,17,6,Peanut,3100
+27.8,1400,big,Loamy,40,55,18,6.2,Cotton,3900
+31.5,700,small,Clay,18,36,23,7,Potato,4200
+26.4,800,medium,Sandy,35,52,15,6.8,Sugarcane,7100
+28.7,1200,big,Loamy,4,59,22,6.5,Tomato,5500
+29.9,1000,small,Clay,22,51,16,6.8,Onion,3900
+27.3,900,small,Loamy,33,47,17,6,Barley,3800
+33.4,850,big,Clay,2,51,17,7,Mustard,3100
+26.1,950,medium,Sandy,16,51,21,6.5,Peas,3700
+29.8,1050,small,Loamy,19,55,20,5.8,Lentils,2700
+31.2,1200,medium,Clay,8,54,20,4,Chickpea,3900
+28.9,1300,big,Sandy,36,55,20,7.5,Okra,3200
+32.7,750,small,Loamy,10,56,16,6,Cotton,4000
+27.1,850,medium,Clay,22,56,17,6.9,Soybean,4100
+30.1,1150,big,Sandy,9,57,24,6.3,Peanut,2800
+30.5,950,small,Loamy,34,59,23,7.5,Potato,4900
+28.8,1250,small,Sandy,31,51,25,6.8,Sunflower,4900
+31.9,900,big,Clay,0,49,18,7,Tomato,6000
+25.8,1000,medium,Loamy,21,39,20,6.5,Sorghum,3000
+29.5,1000,small,Sandy,28,35,22,7.2,Onion,4400
+30.6,1100,medium,Clay,17,52,17,5.8,Sugarcane,7800
+28.1,1350,big,Loamy,24,42,23,6,Mustard,3400
+28.5,1200,small,Clay soil,28,46,16,6.2,Maize,460
+33.4,850,big,Clay soil,21,38,21,7,Corn,6900
+26.1,950,medium,Sandy Soil,34,60,25,6.8,Peanuts,5100
+29.8,1050,small,loamy soil,19,53,22,6.5,Lentils,3600
+31.2,1200,medium,Clay soil,31,58,15,6.8,Sugarcane,9000
+28.9,1300,big,Sandy Soil,19,35,24,6,Millet,5800
+32.7,750,small,loamy soil,24,53,17,7,Soybean,4200
+27.1,850,medium,Clay,13,47,20,6.5,Groundnut,5400
+30.1,1150,big,Sandy,31,53,16,5.8,Sunflower,6700
+30.5,950,small,Loamy,28,45,23,4,Potato,5000
+28.8,1250,small,Sandy,31,37,21,7.5,Millet,4500
+31.9,900,big,Clay,33,60,15,6,Corn,7800
+25.8,1000,medium,Loamy,34,45,21,6.9,Peanuts,5200
+29.5,1000,small,Sandy,13,57,25,6.3,Chickpea,4000
+30.6,1100,medium,Clay,33,57,17,7.5,Sugarcane,9200
+28.1,1350,big,Loamy,32,57,22,6.8,Cotton,6300
+30,1200,Medium,Loam,23,59,25,7,Sugarcane,1200
+20,1600,Big,Red,35,41,18,6.5,Cotton,500
+28,1000,Small,Alluvial Soil,6,48,24,7.2,Tomato,600
+26,800,Medium,Black Soil,29,36,25,5.8,Groundnut,900
+29,1050,Big,Sandy Soil,4,36,22,6,Soybean,700
+24,180,Small,Clayey Soil,10,59,22,6.2,Potato,450
+32,900,Medium,Laterite Soil,14,48,21,7,Chickpea,1000
+31,700,Small,RedLoam,8,50,21,6.8,Mustard,800
+3,1000,Small,Alluvial Soil,20,40,15,6.5,Millets,300
+22,1500,Big,Black Soil,36,43,22,6.8,Cotton,400
+28,1000,Small,Red Soil,14,57,15,6,Tomato,700
+26,800,Medium,Clayey,11,60,23,7,Groundnut,1000
+27,950,Big,Alluvial,10,59,15,6.5,Soybean,900
+25,1020,Small,Sandy,7,60,25,5.8,Potato,600
+29,900,Medium,Laterite,2,47,15,4,Chickpea,1200
+30,700,Small,Red,20,45,22,7.5,Mustard,900
+23,1200,Small,Alluvial Soil,2,39,15,6,Millets,400
+31,1020,Medium,Clay soil,27,40,24,6.9,Sugarcane,1000
+21,1050,Big,Black Soil,35,48,15,6.3,Cotton,500
+28,1010,Small,Red Soil,4,59,25,7.5,Tomato,600
+27,800,Medium,clayey soil,1,48,24,6.8,Groundnut,800
+30,1020,Medium,Clay soil,36,43,21,7,Sugarcane,1200
+20,1200,Big,Red Soil,11,46,24,6.5,Cotton,500
+28,1010,Small,Alluvial Soil,34,47,19,7.2,Tomato,600
+37,980,Medium,Black Soil,21,44,18,5.8,Groundnut,900
+29,1050,Big,Sandy Soil,17,58,20,6,Soybean,700
+24,1080,Small,clayey soil,25,40,21,6.2,Potato,450
+32,900,Medium,Laterite,2,38,18,7,Chickpea,1000
+31,700,Small,Red,9,48,20,6.8,Mustard,800
+33.4,850,big,Clay,37,49,25,6.5,Corn,6900
+26.1,950,medium,Sandy,36,38,15,6.8,Peanuts,5100
+29.8,1050,small,Loamy,40,58,15,6,Lentils,3600
+31.2,1200,medium,Clay,30,44,16,7,Sugarcane,9000
+28.9,1300,big,Sandy,1,59,23,6.5,Millet,5800
+32.7,750,small,Loamy,9,48,22,5.8,Soybean,4200
+27.1,850,medium,Clay,14,41,17,4,Groundnut,5400
+30.1,1150,big,Sandy,35,52,19,7.5,Sunflower,6700
+30.5,950,small,Loamy,31,48,17,6,Potato,5000
+28.8,1250,small,Sandy,4,41,20,6.9,Millet,4500
+31.9,900,big,Clay,30,37,25,6.3,Corn,7800
+25.8,1000,medium,Loamy,9,35,20,7.5,Peanuts,5200
+29.5,1000,small,Sandy,20,41,20,6.8,Chickpea,4000
+30.6,1100,medium,Clay,37,50,23,7,Sugarcane,9200
+28.1,1350,big,Loamy,34,35,21,6.5,Cotton,6300
+30,1020,Medium,Clay Loam,14,37,15,7.2,Sugarcane,1200
+20,1200,Big,Red Loam,23,39,22,5.8,Cotton,500
+28,1100,Small,Alluvial   ,5,45,21,6,Tomato,600
+26,800,Medium,Black,22,37,20,6.2,Groundnut,900
+29,1050,Big,Sandy,40,51,17,7,Soybean,700
+24,1080,Small,Clayey,27,56,20,6.8,Potato,450
+32,900,Medium,Laterite,31,40,22,6.5,Chickpea,1000
+31,700,Small,Red Loam,38,36,21,6.8,Mustard,800
+3,1200,Small,Alluvial,6,37,17,6,Millets,300
+22,1050,Big,Black,6,47,18,7,Cotton,400
+28,1010,Small,Red,24,44,17,6.5,Tomato,700
+26,800,Medium,Clayey,25,59,19,5.8,Groundnut,1000
+27,1050,Big,Alluvial,32,56,21,4,Soybean,900
+25,1080,Small,Sandy,8,45,18,7.5,Potato,600
+29,900,Medium,Laterite,19,39,17,6,Chickpea,1200
+30,700,Small,Red Loam,39,37,15,6.9,Mustard,900
+23,1200,Small,Alluvial,33,37,19,6.3,Millets,400
+31,1120,Medium,Clay Loam,26,54,17,7.5,Sugarcane,1000
+21,1150,Big,Black,21,51,15,6.8,Cotton,500
+28,1010,Small,Red,22,54,20,7,Tomato,600
+27,800,Medium,Clayey,29,45,16,6.5,Groundnut,800
+30,1120,Medium,Clay Loam,4,40,21,7.2,Sugarcane,1200
+20,1200,Big,Red,10,37,22,5.8,Cotton,500
+28,1100,Small,Alluvial,4,44,19,6,Tomato,600
+26,1180,Medium,Black,20,45,17,6.2,Groundnut,900
+29,1510,Big,Sandy,23,45,23,7,Soybean,700
+24,1180,Small,Clayey,25,48,21,6.8,Potato,450
+32,900,Medium,Laterite,56,79,15,6.5,Chickpea,1000
+31,700,Small,Red Loam,25,62,21,6.8,Mustard,800
+21,1150,big, Black Soil,42,61,22,6,Papaya,500
+28,1000,small, Red Soil,42,73,25,7,Onion,600
+30,1020,medium, Clay Loam Soil,44,58,18,6.5,Sugarcane,1200
+20,1200,big, Red Soil,50,55,16,5.8,Cotton,500
+28,1010,small, Alluvial Soil,35,72,21,4,Tomato,600
+26,800,medium, Black Soil,30,64,20,7.5,Groundnut,900
+29,1150,big,Sandy Soil,27,64,21,6,Soybean,700
+24,1080,small, Clayey Soil,50,74,17,6.9,Potato,450
+32,900,medium, Laterite Soil,39,73,24,6.3,Chickpea,1000
+31,700,small, Red Loam,57,67,25,7.5,Mustard,800
+23,1200,small, Alluvial Soil,52,63,19,6.8,Millets,300
+22,1050,big, Black Soil,55,66,22,7,Peanuts,400
+28,1000,small, Red Soil,51,56,18,6.5,Eggplant,700
+27,1050,big, Alluvial Soil,36,66,15,7.2,Pigeon Pea,900
+25,1080,small, Sandy Soil,59,55,19,5.8,Okra,600
+29,900,medium, Laterite Soil,50,58,23,6,Lentil,1200
+30,700,small, Red Loam,30,65,25,6.2,Cabbage,900
+23,1200,small, Alluvial Soil,20,62,18,7,Radish,400
+31,1120,medium, Clay Loam,58,71,15,6.8,Pineapple,1000
+21,1050,big, Black Soil,25,71,24,6.5,Papaya,500
+29.1,820.5,medium, Clay Loam,52,71,16,6.8,Sugarcane,1525.1
+20.8,2030.4,big, Red Soil,40,63,18,6,Cotton,681.9
+27.6,1009.7,small, Alluvial Soil,20,60,25,7,Tomato,839.2
+26.3,723.1,medium, Black Soil,48,61,21,6.5,Groundnut,1073.7
+29.8,1406.3,big,Sandy Soil,49,68,22,5.8,Soybean,754.5
+24.1,1089.8,small, Clayey Soil,48,62,15,4,Potato,573.6
+32.2,904.5,medium, Laterite Soil,32,66,17,7.5,Chickpea,1734.9
+30.5,601.2,small, Red Loam,21,63,22,6,Mustard,995.7
+22.9,1210.6,small, Alluvial Soil,20,72,19,6.9,Millets,327.8
+22.1,1312.5,big, Black Soil,25,65,21,6.3,Peanuts,507.3
+27.7,1104.3,small, Red Soil,41,78,21,7.5,Eggplant,942.7
+30.5,601.2,small, Red Loam,53,67,17,6.8,Mustard,995.7
+22.9,1210.6,small, Alluvial Soil,39,60,21,7,Millets,327.8
+22.1,1132.5,big, Black Soil,25,76,17,6.5,Peanuts,507.3
+27.7,1104.3,small, Red Soil,21,78,19,7.2,Eggplant,942.7
+26.8,1150.1,big, Alluvial Soil,57,60,17,5.8,Pigeon Pea,1016.8
+24.5,1191.2,small, Sandy Soil,56,75,15,6,Okra,710.6
+28.7,870.3,medium, Laterite Soil,49,72,15,6.2,Lentil,1516.9
+30,1250,medium, Clay Loam,24,80,19,7,Sugarcane,1200
+20,1200,big, Red Soil,49,76,18,6.8,Cotton,500
+28,1000,small, Alluvial Soil,28,68,19,6.5,Tomato,600
+26,8000,medium, Black Soil,55,78,21,6.8,Groundnut,900
+29,1350,big, Sandy Soil,50,64,25,6,Soybean,700
+24,1080,small, Clayey Soil,34,80,19,7,Potato,450
+32,900,medium, Laterite Soil,20,68,23,6.5,Chickpea,1000
+23,1200, Small ,Alluvial Soil,55,67,16,5.8, Millets,300
+22,1050, Big ,Black Soil,23,70,15,4, Peanuts,400
+29,1020, Small, Red Soil,53,74,15,7.5, Eggplant,700
+28,1060, Big, Alluvial Soil,26,67,16,6, Pigeon Pea,900
+26,1080, Small, Sandy Soil,33,80,22,6.9, Okra,600
+32,900, Medium ,Laterite Soil,37,79,19,6.3, Lentil,1200
+29,700,Small,Red,33,75,21,7.5,Cabbage,1600
+23,1200, Small, Alluvial Soil,22,55,20,6.8, Radish,400
+31,1020, Medium, Clay Loam,20,68,17,7, Pineapple,1000
+21,1050, Big, Black Soil,43,68,20,6.5, Papaya,500
+28,1100, Small, Red Soil,44,76,22,7.2, Onion,600
+30,1120, Medium ,Clay Loam,34,60,16,5.8, Sugarcane,1200
+20,1200, Big ,Red Soil,21,72,17,6, Cotton,500
+28,1100, Small, Alluvial Soil,25,68,19,6.2, Tomato,600
+26,1030, Medium ,Black Soil,41,62,15,7, Groundnut,900
+29,1050, Big, Sandy Soil,28,65,23,6.8, Soybean,700
+24,1080, Small, Clayey Soil,35,64,15,6.5, Potato,450
+32,1090, Medium, Laterite Soil,52,58,16,6.8, Chickpea,1000
+31,1070, Small, Red Loam,58,75,25,6, Mustard,800
+23,1200, Small, Alluvial Soil,34,66,19,7, Millets,300
+22,1150, Big, Black Soil,52,70,16,6.5, Peanuts,400
+28,1100, Small, Red Soil,23,57,19,5.8, Eggplant,700
+27,1050, Big ,Alluvial Soil,42,58,25,4, Pigeon Pea,900
+25,1080, Small, Sandy Soil,37,62,17,7.5, Okra,600
+29,1090, Medium ,Laterite Soil,44,75,22,6, Lentil,1200
+30,1070, Small ,Red Loam,21,80,20,6.9, Cabbage,900
+23,1200, Small ,Alluvial Soil,56,76,16,6.3, Radish,400
+31,1020, Medium ,Clay Loam,29,76,15,7.5, Pineapple,1000
+21,1050, Big ,Black Soil,43,61,20,6.8, Papaya,500
+28,1000, Small, Red Soil,55,60,15,7, Onion,600
+27,1020, Medium, Clay Loam,44,63,15,6.5, Sugarcane,1100
+20,900, Big ,Red Soil,29,67,21,7.2, Cotton,450
+28,900, Small ,Alluvial Soil,47,63,16,5.8, Tomato,700
+26,800, Medium ,Black Soil,40,68,17,6, Groundnut,900
+30,1040, Big ,Sandy Soil,58,61,15,6.2, Soybean,750
+24,1080, Small, Clayey Soil,41,74,18,7, Potato,500
+32,800, Medium ,Laterite Soil,58,79,17,6.8, Chickpea,1200
+31,700, Small ,Red Loam,27,62,24,6.5, Mustard,850
+23,1090, Small ,Alluvial Soil,27,60,17,6.8, Millets,400
+22,1050, Big, Black Soil,52,65,20,6, Peanuts,350
+28,900, Small, Red Soil,44,55,25,7, Eggplant,800
+27,1040, Big ,Alluvial Soil,21,62,24,6.5, Pigeon Pea,1000
+24,1070, Small, Sandy Soil,60,59,22,5.8, Okra,650
+29,900, Medium ,Laterite Soil,33,77,21,4, Lentil,1050
+30,700, Small ,Red Loam,59,58,17,7.5, Cabbage,900
+23,1200, Small ,Alluvial Soil,29,63,17,6, Radish,450
+24,1070,small, Sandy Soil,59,63,18,6.9,Okra,650
+29,900,medium, Laterite Soil,29,70,15,6.3,Lentil,1050
+30,700,small, Red Loam,58,73,16,7.5,Cabbage,900
+23,1110,small, Alluvial Soil,55,77,22,6.8,Radish,450
+31,1200,medium, Clay Loam,42,79,23,7,Pineapple,1150
+21,1050,big, Black Soil,44,77,21,6.5,Papaya,500
+23,1204,small, Loamy Soil,38,62,25,7.2,Wheat,3475
+28,1100,big, Clay Loam,32,76,15,5.8,Maize,5055
+24,900,small, Red Soil,13,61,22,6,Cotton,3045
+25,1050,medium, Alluvial Soil,38,60,20,6.2,Sugarcane,7143
+26,1100,big, Sandy Soil,11,74,17,7,Soybean,2010
+28,1108,small,Red Loam,37,71,16,6.8,Tomato,4082
+24,1500,medium, Black Soil,29,71,18,6.5,Groundnut,3510
+30,1405,big, Laterite Soil,2,72,18,6.8,Potato,5055
+25,1305,small, Clayey Soil,6,59,21,6,Chickpea,4082
+30,1012,small, Alluvial Soil,13,64,20,7,Jowar,5055
+25,1018,big, Red Loam,8,58,17,6.5,Millets,1818
+26,990,medium, Black Soil,6,77,20,5.8,Peanuts,2893
+28,1150,big, Alluvial Soil,2,75,22,4,Eggplant,2607
+25,1230,small, Clay Loam,3,69,23,7.5,sunflower,800
+26,1120,medium, Sandy Soil,27,80,24,6,Pigeon Pea,3571
+30,1070,small, Alluvial Soil,39,78,15,6.9,Lentil,4857
+25,1000,big, Black Soil,40,79,17,6.3,Cabbage,3045
+26,1024,small,Small Red Soil,37,62,22,7.5,Beetroot,3571
+25,1000,medium, Clay Loam,31,60,24,6.8,Rice,1000
+27,1020,big, Red Soil,22,67,22,7,Maize,850
+20,720,small, Black Soil,3,78,18,6.5,Soybean,450
+28,990,medium, Alluvial Soil,4,80,16,7.2,Sugarcane,1100
+30,1040,small, Sandy Soil,13,61,24,5.8,Tomato,700
+24,1080,medium, Black Soil,12,66,20,6,Groundnut,900
+32,1080,big, Laterite Soil,4,61,21,6.2,Potato,1200
+25,1120,small, Red Soil,9,60,21,7,Chickpea,850
+23,1090,small, Alluvial Soil,18,66,22,6.8,Millets,400
+22,1050,big, Black Soil,32,56,18,6.5,Peanuts,350
+28,900,small, Red Loam,6,72,15,6.8,Eggplant,800
+27,1040,big, Alluvial Soil,15,77,20,6,Pigeon Pea,1000
+24,1070,small, Sandy Soil,0,65,24,7,Okra,650
+29,900,medium, Laterite Soil,30,79,22,6.5,Lentil,1050
+30,700,small, Red Loam,3,63,16,5.8,Cabbage,900
+23,1200,small, Alluvial Soil,2,78,23,4,Radish,450
+31,1020,medium, Clay Loam,10,78,18,7.5,Pineapple,1150
+21,1050,big, Black Soil,14,67,25,6,Papaya,500
+25,1000,medium, Clay Loam,39,65,23,6.9,Rice,1000
+27,1020,big, Red Soil,19,72,15,6.3,Maize,850
+20,1200,small, Black Soil,18,57,21,7.5,Soybean,450
+28,900,medium, Alluvial Soil,31,58,15,6.8,Sugarcane,1100
+30,1040,small, Sandy Soil,28,58,25,7,Tomato,700
+24,1080,medium, Black Soil,5,65,19,6.5,Groundnut,900
+32,980,big, Laterite Soil,16,65,19,7.2,Potato,1200
+25,1020,small, Red Soil,34,65,19,5.8,Chickpea,850
+23,1090,small, Alluvial Soil,14,69,19,6,Millets,400
+22,1050,big, Black Soil,22,55,16,6.2,Peanuts,350
+25.1,1574,big,clayey soil,24,61,17,7,potato,2100
+27.6,1645,small,sandy soil,2,79,15,6.8,sugarcane,4000
+26.3,911,medium,loamy soil,26,63,17,6.5,sugarcane,4800
+29.1,950,big,clayey soil,27,61,15,6.8,sugarcane,5500
+23.6,638.2,small,loamy soil,24,70,16,6,wheat,3138
+29.4,957.4,medium,sandy soil,13,74,25,7,rice,4431
+27.2,715.9,large,clayey soil,6,64,23,6.5,maize,6724
+24.8,812.6,small,sandy soil,12,58,23,5.8,barley,3241
+28.1,553.8,medium,loamy soil,32,79,22,4,soybean,2428
+26.5,709.6,large,clayey soil,6,68,18,7.5,sugarcane,8425
+22.7,472.3,small,sandy soil,10,79,20,6,potato,4566
+24.3,862.1,medium,loamy soil,38,77,22,6.9,cotton,5228
+27.9,589.8,large,clayey soil,17,74,17,6.3,tomato,9836
+26.4,700.1,small,sandy soil,26,68,24,7.5,peanut,3455
+29.8,912.6,medium,loamy soil,23,75,17,6.8,chilli,7346
+24.1,767.5,large,clayey soil,32,78,22,7,sorghum,6148
+26.9,541.7,small,sandy,19,79,19,6.5,onion,2567
+28.7,609.4,medium,loamy,22,60,18,7.2,banana,13629
+25.6,784.3,large,clayey,28,69,16,5.8,apple,20176
+27.3,681.8,small,sandy,1,67,21,6,mango,9631
+23.9,623.9,medium,loamy,12,67,23,6.2,papaya,7582
+25.1,810.5,large,clayey,36,67,20,7,guava,10589
+28.2,568.1,small,sandy,28,70,21,6.8,coffee,3124
+26.3,733.8,medium,loamy,12,71,19,6.5,tea,5216
+24.5,856.7,large,clayey,22,68,16,6.8,rubber,9237
+25.8,655.4,small,sandy,26,66,22,6,cabbage,4569
+27.6,713.1,medium,loamy,16,65,16,7,cauliflower,5498
+23.5,509.8,large,clayey,14,59,22,6.5,broccoli,392
+22.5,1050,small,clay,33,59,19,5.8,wheat,4000
+35,890,medium,sandy,21,63,17,4,rice,6000
+27.5,1025,big,loam,0,69,21,7.5,corn,8000
+30,1050,small,clay,10,75,17,6,soybeans,2000
+25,975,medium,sandy,30,61,18,6.9,barley,5000
+17.5,1000,big,loam,0,74,17,6.3,oats,3000
+28,1075,small,sandy,35,74,22,7.5,rye,4000
+32.5,1200,medium,loam,7,63,24,6.8,sorghum,7000
+29,1020,big,clay,9,56,17,7,sunflower,4000
+30,900,small,sandy,14,74,15,6.5,cotton,3000
+28,1075,medium,loam,14,76,20,7.2,sugarcane,9000
+24,800,big,clay,36,65,16,5.8,tobacco,2310
+15,1000,small,sandy,28,67,21,6,wheat,2000
+25,1200,medium,loamy soil,28,79,16,6.2,rice,4000
+20,1050,big,Clay soil,40,61,22,7,maize,3000
+22,1020,small,sandy soil,10,70,19,6.8,soybean,2500
+12,900,Medium,loamy soil,12,80,19,6.5,Oat,2400
+24,1080,Big,Clay soil,37,77,20,6.8,Sunflower,3500
+28,1250,Small,sandy soil,0,67,22,6,Peanut,4200
+20,1010,Medium,loamy soil,7,73,25,7,Lentil,2600
+22,1200,Big,Clay soil,10,56,18,6.5,Chickpea,2800
+16,1000,Small,sandy soil,39,70,15,5.8,Potato,2000
+24,1050,Medium,loamy soil,26,56,22,4,Sweetcorn,3200
+18,900,Big,Clay soil,9,77,17,7.5,Broccoli,2400
+20,1000,Small,Sandy,4,59,19,6,Cauliflower,2600
+16,800,Medium,loamy soil,34,73,15,6.9,Cabbage,2000
+12,600,Big,Clay soil,33,77,15,6.3,Carrot,1800
+24,1120,Small,sandy soil,2,24,38,7.5,Tomato,2800
+26,1050,Medium,loamy soil,6,18,37,6.8,Pepper,3200
+28,1080,Big,Clay soil,8,26,36,7,Eggplant,3800
+22,1020,Small,sandy soil,37,18,39,6.5,Cucumber,2700
+20,1000,Medium,loamy soil,0,27,38,7.2,Pumpkin,2400
+24,1050,Small,sandy soil,31,25,38,5.8,Muskmelon,3200
+18,800,Medium,loamy soil,21,21,38,6,Strawberry,2000
+16,760,Big,Clay soil,6,30,40,6.2,Blueberry,1800
+22,1200,Small,sandy soil,25,27,41,7,Raspberry,2700
+25.6,856.3,small,loam soil,15,11,38,6.8,wheat,2300
+22.1,667.8,medium,sandy soil,14,5,36,6.5,rice,750
+26.5,644.2,big,Clay soil,16,10,41,6.8,wheat,2700
+24.8,752.6,small,sandy soil,36,7,37,6,rice,300
+21.3,700.1,medium,loam soil,4,20,41,7,wheat,2600
+27.2,800.5,big,Clay soil,29,22,40,6.5,rice,1700
+25.9,7090,small,sandy soil,16,15,42,5.8,wheat,400
+23.4,600,medium,loam soil,18,27,41,4,rice,500
+26.8,700,big,clay,11,18,42,7.5,wheat,1900
+24.6,850,small,sandy,5,15,38,6,rice,1700
+20.9,73.9,medium,loam,18,23,44,6.9,wheat,650
+27.5,935,big,clay,9,8,40,6.3,rice,800
+25.2,1100,small,sandy,40,27,45,7.5,wheat,300
+22.7,1059.2,medium,loam,22,23,44,6.8,rice,2300
+26.1,1040.3,big,clay,9,16,39,7,wheat,2400
+23.8,849.7,small,sandy,12,29,40,6.5,rice,460
+21.1,772.4,medium,loam soil,0,17,42,7.2,wheat,1800
+27.8,734.2,big,Clay soil,2,21,44,5.8,rice,2600
+25.4,943.9,small,sandy soil,28,6,40,6,wheat,360
+20.5,750,Small,sandy soil,8,23,44,6.2,Wheat,750
+24.2,800,Medium,Clayey soil,29,16,36,7,Wheat,900
+18.9,350,Big,loamy soil,17,18,43,6.8,Wheat,650
+22.1,600,Small,sandy soil,34,21,42,6.5,Wheat,800
+25.3,900,Medium,clayey soil,21,23,42,6.8,Wheat,950
+27.8,1200,Big,loamy soil,25,17,40,6,Rice,1100
+29.5,1000,Small,sandy soil,8,25,36,7,Rice,900
+40,900,big,Clay soil,26,18,42,6.5,Ridge Gourd,4800
+26,1000,medium,loamy soil,4,19,42,5.8,Bottle Gourd,5400
+30,1000,small,sandy soil,36,24,41,4,Sponge Gourd,6500
+31,1100,medium,Clay soil,5,24,40,7.5,Lady Finger,4800
+28,1350,big,loamy soil,19,17,39,6,Bitter Gourd,3800
+32,900,big,Clay soil,39,30,38,6.9,Muskmelon,3600
+35,1000,medium,loamy soil,5,29,44,6.3,Watermelon,4900
+27,1500,small,Sandy Loam soil,4,24,43,7.5,maize,800
+25,1020,big,Red Sandy Soil,38,21,35,6.8,sunflower,600
+26,1070,medium,Black Clay soil,37,11,36,7,Jowar,1200
+28,1050,big, Laterite Soil,9,25,41,6.5,Sesame,500
+30,1020,medium,Sandy Loam soil,29,22,43,7.2,sugarcane,1500
+24,1120,big,Red Sandy Soil,5,21,38,5.8,sunflower,600
+30,1700,small,Red Loam,22,26,38,6,Mustard,900
+27,1170,medium,Black Clay soil,4,18,37,6.2,jowar,800
+28,1150,big,Lateritic,21,6,41,7,Sesame,500
+27,1110,small,Sandy Loam soil,29,21,45,6.8,Maize,800
+25,1200,big,Red Sandy Soil,23,5,44,6.5,sunflower,600
+26,1300,medium,Black Clay soil,13,7,43,6.8,Jowar,1200
+28,1500,big,Lateritic Soil,5,13,37,6,Sesame,500
+30,1200,medium,Sandy Loam soil,27,24,41,7,Sorghum,1500
+26,800,medium,clayey soil,7,23,35,6.5,Kidney Bean,1000
+26,200,big,clay,12,20,39,5.8,Watermelon,4200
+24,150,small,Sandy,4,19,43,4,Muskmelon,3200
+26,800,big,Red Sandy Soil,3,9,45,7.5,cotton,600
+26,1070,medium,Black Clay soil,1,27,36,6,Jowar,1100
+28,1050,big,Laterite Soil,23,30,44,6.9,Potato,1200
+30,1100,medium,Sandy Loam soil,24,21,42,6.3,sorghum,1400
+26,800,medium,Clayey soil,13,30,37,7.5,Kidney Bean,950
+25,1300,big,Red Sandy Soil,40,11,44,6.8,Watermelon,700
+27,1070,medium,Black Clay soil,21,9,40,7,Beetroot,850
+28,1100,big,Lateritic,3,27,44,6.5,Carrot,500
+25,1200,big,Red Sandy Soil,40,29,42,7.2,sunflower,600
+26,1070,medium,Black Clay soil,14,25,40,5.8,Jowar,1100
+28,150,big,Lateritic Soil,38,14,37,6,Sesame,550
+30,1100,medium,sandy soil,34,9,36,6.2,sorghum,1400
+28.5,1200, small, Clay soil,32,14,37,7,Maize,16450
+12,90,Medium,Loamy,18,21,35,6.8,Oat,2400
+24,180,Big,Clay,8,23,38,6.5,Sunflower,3500
+28,250,Small,Sandy,15,6,41,6.8,Peanut,4200
+20,110,Medium,Loamy,0,5,36,6,Lentil,2600
+22,120,Big,Clay,22,9,44,7,Chickpea,2800
+16,100,Small,Sandy,14,8,43,6.5,Potato,2000
+24,150,Medium,Loamy,31,11,45,5.8,Sweetcorn,3200
+18,90,Big,Clay,39,17,45,4,Broccoli,2400
+20,100,Small,Sandy,10,5,42,7.5,Cauliflower,2600
+16,80,Medium,Loamy,8,28,38,6,Cabbage,2000
+12,60,Big,Clay,32,13,42,6.9,Carrot,1800
+24,120,Small,Sandy,18,9,40,6.3,Tomato,2800
+26,150,Medium,Loamy,20,27,41,7.5,Pepper,3200
+28,180,Big,Clay,39,25,36,6.8,Eggplant,3800
+22,120,Small,Sandy,20,7,45,7,Cucumber,2700
+20,100,Medium,Loamy,11,10,45,6.5,Pumpkin,2400
+24,150,Small,Sandy,40,18,43,7.2,Muskmelon,3200
+18,80,Medium,Loamy,3,26,39,5.8,Strawberry,2000
+16,60,Big,Clay,9,16,36,6,Blueberry,1800
+22,120,Small,Sandy,30,20,38,6.2,Raspberry,2700
+25.6,56.3,small,loam,40,9,41,7,wheat,3.8
+22.1,67.8,medium,sandy,40,30,35,6.8,rice,6.2
+26.5,44.2,big,clay,32,25,35,6.5,wheat,4.1
+24.8,52.6,small,sandy,33,23,45,6.8,rice,5.9
+21.3,70.1,medium,loam,4,14,41,6,wheat,3.6
+27.2,38.5,big,clay,13,17,45,7,rice,7.1
+25.9,47.9,small,sandy,39,24,39,6.5,wheat,4.3
+23.4,62.4,medium,loam,8,28,37,5.8,rice,5.5
+26.8,41.7,big,clay,91,94,46,4,wheat,3.9
+24.6,50.3,small,sandy,105,95,50,7.5,rice,5.8
+20.9,73.6,medium,loam,108,92,53,6,wheat,3.4
+27.5,35.9,big,clay,86,76,54,6.9,rice,6.9
+25.2,45.6,small,sandy,80,77,49,6.3,wheat,4.5
+22.7,59.2,medium,loam,93,94,53,7.5,rice,5.3
+26.1,40.3,big,clay,90,92,55,6.8,wheat,3.7
+23.8,49.7,small,sandy,34,34,35,7,rice,5.6
+21.1,72.4,medium,loam,36,19,32,6.5,wheat,3.3
+27.8,34.2,big,clay,7,17,26,7.2,rice,6.7
+25.4,43.9,small,sandy,38,15,27,5.8,wheat,4.2
+20.5,500,Small,Sandy,5,19,25,6,Wheat,750
+24.2,800,Medium,Clayey,37,36,26,6.2,Wheat,900
+18.9,350,Big,Loamy,21,31,32,7,Wheat,650
+22.1,600,Small,Sandy,37,36,27,6.8,Wheat,800
+25.3,900,Medium,Clayey,23,23,30,6.5,Wheat,950
+27.8,1200,Big,Loamy,36,26,26,6.8,Rice,1100
+29.5,1000,Small,Sandy,24,33,35,6,Rice,900
+25.1,574,big,clayey,26,18,30,7,potato,2100
+27.6,645,small,sandy,22,17,26,6.5,sugarcane,4000
+26.3,711,medium,loamy,11,34,32,5.8,sugarcane,4800
+29.1,502,big,clayey,29,35,28,4,sugarcane,5500
+23.6,638.2,small,loamy,22,28,26,7.5,wheat,3138
+29.4,957.4,medium,sandy,23,24,32,6,rice,4431
+27.2,715.9,large,clayey,1,35,34,6.9,maize,6724
+24.8,812.6,small,sandy,2,24,34,6.3,barley,3241
+28.1,553.8,medium,loamy,39,37,25,7.5,soybean,2428
+26.5,709.6,large,clayey,15,36,27,6.8,sugarcane,8425
+22.7,472.3,small,sandy,3,18,31,7,potato,4566
+24.3,862.1,medium,loamy,8,38,32,6.5,cotton,5228
+27.9,589.8,large,clayey,33,31,34,7.2,tomato,9836
+26.4,700.1,small,sandy,14,29,32,5.8,peanut,3455
+29.8,912.6,medium,loamy,18,20,26,6,chilli,7346
+24.1,767.5,large,clayey,9,21,32,6.2,sorghum,6148
+26.9,541.7,small,sandy,20,30,27,7,onion,2567
+28.7,609.4,medium,loamy,9,38,25,6.8,banana,13629
+25.6,784.3,large,clayey,26,24,34,6.5,apple,20176
+27.3,681.8,small,sandy,31,36,29,6.8,mango,9631
+23.9,623.9,medium,loamy,14,18,35,6,papaya,7582
+25.1,810.5,large,clayey,40,16,35,7,guava,10589
+28.2,568.1,small,sandy,28,27,34,6.5,coffee,3124
+26.3,733.8,medium,loamy,0,17,30,5.8,tea,5216
+24.5,856.7,large,clayey,1,29,29,4,rubber,9237
+25.8,655.4,small,sandy,2,36,31,7.5,cabbage,4569
+27.6,713.1,medium,loamy,12,27,26,6,cauliflower,5498
+23.5,509.8,large,clayey,7,28,35,6.9,broccoli,392
+22.5,105,small,clay,0,36,26,6.3,wheat,4000
+35,90,medium,sandy,26,35,31,7.5,rice,6000
+27.5,125,big,loam,27,21,30,6.8,corn,8000
+30,150,small,clay,22,38,31,7,soybeans,2000
+25,75,medium,sandy,22,18,31,6.5,barley,5000
+17.5,100,big,loam,28,23,28,7.2,oats,3000
+28,175,small,sandy,7,31,27,5.8,rye,4000
+32.5,200,medium,loam,29,34,26,6,sorghum,7000
+29,120,big,clay,8,37,33,6.2,sunflower,4000
+30,90,small,sandy,39,16,27,7,cotton,3000
+28,175,medium,loam,40,24,25,6.8,sugarcane,9000
+24,80,big,clay,19,38,26,6.5,tobacco,2310
+15,100,small,sandy,21,21,30,6.8,wheat,2000
+25,200,medium,loamy,22,18,33,6,rice,4000
+20,150,big,clay,31,20,30,7,maize,3000
+22,120,small,sandy,18,26,31,6.5,soybean,2500
+24,170,small, Sandy Soil,24,130,195,5.8,Okra,650
+29,90,medium, Laterite Soil,13,144,204,4,Lentil,1050
+30,70,small, Red Loam,22,123,205,7.5,Cabbage,900
+23,200,small, Alluvial Soil,36,125,196,6,Radish,450
+31,120,medium, Clay Loam,24,131,196,6.9,Pineapple,1150
+21,150,big, Black Soil,2,123,198,6.3,Papaya,500
+23,124,small, Loamy Soil,35,140,197,7.5,Wheat,3475
+28,100,big, Clay Loam,11,122,195,6.8,Maize,5055
+24,90,small, Red Soil,6,123,203,7,Cotton,3045
+25,105,medium, Alluvial Soil,17,134,204,6.5,Sugarcane,7143
+26,110,big, Sandy Soil,25,130,197,7.2,Soybean,2010
+28,118,small,Red Loam,27,145,205,5.8,Tomato,4082
+24,150,medium, Black Soil,9,122,201,6,Groundnut,3510
+30,145,big, Laterite Soil,16,139,203,6.2,Potato,5055
+25,135,small, Clayey Soil,32,141,204,7,Chickpea,4082
+30,112,small, Alluvial Soil,22,138,195,6.8,Jowar,5055
+25,118,big, Red Loam,31,144,202,6.5,Millets,1818
+26,99,medium, Black Soil,3,136,205,6.8,Peanuts,2893
+28,115,big, Alluvial Soil,28,122,197,6,Eggplant,2607
+25,123,small, Clay Loam,4,136,204,7,Maize,2055
+26,112,medium, Sandy Soil,39,145,201,6.5,Pigeon Pea,3571
+30,107,small, Alluvial Soil,38,132,197,5.8,Lentil,4857
+25,100,big, Black Soil,36,133,198,4,Cabbage,3045
+26,124,small,Small Red Soil,25,121,201,7.5,Beetroot,3571
+25,100,medium, Clay Loam,15,125,199,6,Rice,1000
+27,120,big, Red Soil,24,140,205,6.9,Maize,850
+20,200,small, Black Soil,13,132,203,6.3,Soybean,450
+28,90,medium, Alluvial Soil,5,126,197,7.5,Sugarcane,1100
+30,140,small, Sandy Soil,30,120,200,6.8,Tomato,700
+24,180,medium, Black Soil,23,142,197,7,Groundnut,900
+32,80,big, Laterite Soil,26,135,203,6.5,Potato,1200
+25,120,small, Red Soil,7,126,203,7.2,Chickpea,850
+23,190,small, Alluvial Soil,32,139,198,5.8,Millets,400
+22,150,big, Black Soil,9,141,202,6,Peanuts,350
+28,90,small, Red Loam,20,142,196,6.2,Eggplant,800
+27,140,big, Alluvial Soil,32,129,201,7,Pigeon Pea,1000
+24,170,small, Sandy Soil,3,134,199,6.8,Okra,650
+29,90,medium, Laterite Soil,38,138,204,6.5,Lentil,1050
+30,70,small, Red Loam,14,131,198,6.8,Cabbage,900
+23,200,small, Alluvial Soil,20,122,204,6,Radish,450
+31,120,medium, Clay Loam,40,126,201,7,Pineapple,1150
+21,150,big, Black Soil,36,128,204,6.5,Papaya,500
+25,100,medium, Clay Loam,11,132,197,5.8,Rice,1000
+27,120,big, Red Soil,0,137,195,4,Maize,850
+20,200,small, Black Soil,19,123,200,7.5,Soybean,450
+28,90,medium, Alluvial Soil,31,136,197,6,Sugarcane,1100
+30,140,small, Sandy Soil,4,134,200,6.9,Tomato,700
+24,180,medium, Black Soil,39,139,201,6.3,Groundnut,900
+32,80,big, Laterite Soil,8,127,196,7.5,Potato,1200
+25,120,small, Red Soil,39,138,203,6.8,Chickpea,850
+23,190,small, Alluvial Soil,32,120,204,7,Millets,400
+22,150,big, Black Soil,12,142,203,6.5,Peanuts,350
+23,200,Small,Alluvial Soil,8,133,195,7.2,Radish,450
+31,120,Medium,Clay Loam,8,139,199,5.8,Pineapple,1150
+21,150,Big,Black Soil,21,134,202,6,Papaya,500
+28,90,Small,Red Soil,40,140,195,6.2,Onion,650
+27,120,Medium,Clay Loam,39,127,202,7,Sugarcane,1100
+20,200,Big,Red Soil,19,120,195,6.8,Cotton,450
+28,90,Small,Alluvial Soil,21,139,201,6.5,Tomato,700
+26,80,Medium,Black Soil,17,136,195,6.8,Groundnut,900
+30,140,Big,Sandy Soil,33,139,203,6,Soybean,750
+24,180,Small,Clayey Soil,22,133,201,7,Potato,500
+32,80,Medium,Laterite Soil,32,130,196,6.5,Chickpea,1200
+31,70,Small,Red Loam,37,135,205,5.8,Mustard,850
+23,190,Small,Alluvial Soil,15,140,195,4,Millets,400
+22,150,Big,Black Soil,39,132,196,7.5,Peanuts,350
+28,90,Small,Red Soil,40,121,199,6,Eggplant,800
+27,140,Big,Alluvial Soil,40,132,202,6.9,Pigeon Pea,1000
+24,170,Small,Sandy Soil,29,142,203,6.3,Okra,650
+29,90,Medium,Laterite Soil,32,121,199,7.5,Lentil,1050
+30,70,Small,Red Loam,6,140,205,6.8,Cabbage,900
+23,200,Small,Alluvial Soil,8,120,196,7,Radish,450
+31,120,Medium,Clay Loam,34,133,202,6.5,Pineapple,1150
+21,150,Big,Black Soil,35,135,199,7.2,Papaya,500
+27,100,Medium,Clay Loam,16,145,199,5.8,Rice,3000
+20,200,Big,Red Soil,8,136,201,6,Cotton,800
+28,75,Small,Alluvial Soil,25,129,195,6.2,Tomato,1500
+26,85,Medium,Black Soil,16,130,201,7,Groundnut,1200
+30,150,Big,Sandy Soil,39,129,203,6.8,Soybean,1000
+24,175,Small,Clayey Soil,38,135,203,6.5,Potato,900
+32,85,Medium,Laterite Soil,33,120,205,6.8,Chickpea,1400
+23,190,Small,Alluvial Soil,35,125,204,6,Millets,500
+22,155,Big,Black Soil,1,132,200,7,Peanuts,400
+28,85,Small,Red Soil,39,140,203,6.5,Eggplant,1200
+27,145,Big,Alluvial Soil,28,145,202,5.8,Pigeon Pea,1000
+24,170,Small,Sandy Soil,6,128,200,4,Okra,800
+29,90,Medium,Laterite Soil,6,139,199,7.5,Lentil,1350
+30,65,Small,Red Loam,29,122,196,6,Cabbage,1100
+23,195,Small,Alluvial Soil,37,144,197,6.9,Radish,600
+31,115,Medium,Clay Loam,38,120,197,6.3,Pineapple,1300
+21,155,Big,Black Soil,38,141,198,7.5,Papaya,600
+28,95,Small,Red Soil,14,121,203,6.8,Onion,75
+29,120,Medium,Clay Loam,6,125,204,7,Rice,1200
+24,180,Big,Red Soil,32,138,197,6.5,Cotton,500
+28,100,Small,Alluvial Soil,11,124,204,7.2,Tomato,700
+27,80,Medium,Black Soil,23,138,200,5.8,Groundnut,900
+30,140,Big,Sandy Soil,40,143,201,6,Soybean,750
+23,170,Small,Clayey Soil,6,142,202,6.2,Potato,450
+31,80,Medium,Laterite Soil,37,124,195,7,Chickpea,1250
+29,70,Small,Red Loam,35,134,204,6.8,Mustard,800
+23,200, Small ,Alluvial Soil,119,25,51,6.5, Millets,300
+22,150, Big ,Black Soil,119,19,55,6.8, Peanuts,400
+29,100, Small, Red Soil,105,30,50,6, Eggplant,700
+28,160, Big, Alluvial Soil,114,8,50,7, Pigeon Pea,900
+26,180, Small, Sandy Soil,93,22,52,6.5, Okra,600
+32,90, Medium ,Laterite Soil,80,26,55,5.8, Lentil,1200
+29,70, Small Red Loam, Cabbage,85,27,45,4,900,1450
+23,200, Small, Alluvial Soil,85,22,53,7.5, Radish,400
+31,120, Medium, Clay Loam,82,22,45,6, Pineapple,1000
+21,150, Big, Black Soil,118,13,54,6.9, Papaya,500
+28,100, Small, Red Soil,83,25,53,6.3, Onion,600
+30,120, Medium ,Clay Loam,86,15,47,7.5, Sugarcane,1200
+20,200, Big ,Red Soil,101,10,47,6.8, Cotton,500
+28,100, Small, Alluvial Soil,119,9,50,7, Tomato,600
+26,80, Medium ,Black Soil,104,17,46,6.5, Groundnut,900
+29,150, Big, Sandy Soil,95,12,51,7.2, Soybean,700
+24,180, Small, Clayey Soil,102,14,52,5.8, Potato,450
+32,90, Medium, Laterite Soil,109,21,55,6, Chickpea,1000
+31,70, Small, Red Loam,81,18,50,6.2, Mustard,800
+23,200, Small, Alluvial Soil,103,17,51,7, Millets,300
+22,150, Big, Black Soil,105,14,50,6.8, Peanuts,400
+28,100, Small, Red Soil,97,8,52,6.5, Eggplant,700
+27,150, Big ,Alluvial Soil,120,19,49,6.8, Pigeon Pea,900
+25,180, Small, Sandy Soil,95,16,55,6, Okra,600
+29,90, Medium ,Laterite Soil,83,29,52,7, Lentil,1200
+30,70, Small ,Red Loam,83,9,45,6.5, Cabbage,900
+23,200, Small ,Alluvial Soil,91,21,50,5.8, Radish,400
+31,120, Medium ,Clay Loam,116,5,54,4, Pineapple,1000
+21,150, Big ,Black Soil,112,28,54,7.5, Papaya,500
+28,100, Small, Red Soil,88,29,51,6, Onion,600
+27,120, Medium, Clay Loam,118,15,45,6.9, Sugarcane,1100
+20,200, Big ,Red Soil,92,21,48,6.3, Cotton,450
+28,90, Small ,Alluvial Soil,106,14,45,7.5, Tomato,700
+26,80, Medium ,Black Soil,99,5,47,6.8, Groundnut,900
+30,140, Big ,Sandy Soil,98,8,51,7, Soybean,750
+24,180, Small, Clayey Soil,108,22,46,6.5, Potato,500
+32,80, Medium ,Laterite Soil,119,7,55,7.2, Chickpea,1200
+31,70, Small ,Red Loam,117,27,48,5.8, Mustard,850
+23,190, Small ,Alluvial Soil,109,10,53,6, Millets,400
+22,150, Big, Black Soil,80,16,46,6.2, Peanuts,350
+28,90, Small, Red Soil,100,18,52,7, Eggplant,800
+27,140, Big ,Alluvial Soil,91,7,53,6.8, Pigeon Pea,1000
+24,170, Small, Sandy Soil,86,6,53,6.5, Okra,650
+29,90, Medium ,Laterite Soil,107,5,52,6.8, Lentil,1050
+30,70, Small ,Red Loam,103,16,49,6, Cabbage,900
+23,200, Small ,Alluvial Soil,101,20,48,7, Radish,450
+21,150,big, Black Soil,85,25,47,6.5,Papaya,500
+28,100,small, Red Soil,84,7,51,5.8,Onion,600
+30,120,medium, Clay Loam,102,28,54,4,Sugarcane,1200
+20,200,big, Red Soil,98,25,52,7.5,Cotton,500
+28,100,small, Alluvial Soil,97,25,50,6,Tomato,600
+26,80,medium, Black Soil,90,16,45,6.9,Groundnut,900
+29,150,big,Sandy Soil,95,12,46,6.3,Soybean,700
+24,180,small, Clayey Soil,82,23,49,7.5,Potato,450
+32,90,medium, Laterite Soil,82,25,51,6.8,Chickpea,1000
+31,70,small, Red Loam,110,28,46,7,Mustard,800
+23,200,small, Alluvial Soil,118,21,51,6.5,Millets,300
+22,150,big, Black Soil,120,20,45,7.2,Peanuts,400
+28,100,small, Red Soil,91,7,52,5.8,Eggplant,700
+27,150,big, Alluvial Soil,81,6,55,6,Pigeon Pea,900
+25,180,small, Sandy Soil,101,13,54,6.2,Okra,600
+29,90,medium, Laterite Soil,101,17,55,7,Lentil,1200
+30,70,small, Red Loam,111,6,53,6.8,Cabbage,900
+23,200,small, Alluvial Soil,107,10,49,6.5,Radish,400
+31,120,medium, Clay Loam,115,11,46,6.8,Pineapple,1000
+21,150,big, Black Soil,84,25,52,6,Papaya,500
+29.1,82.5,medium, Clay Loam,120,7,47,7,Sugarcane,1525.1
+20.8,203.4,big, Red Soil,91,12,46,6.5,Cotton,681.9
+27.6,109.7,small, Alluvial Soil,89,22,52,5.8,Tomato,839.2
+26.3,73.1,medium, Black Soil,113,19,46,4,Groundnut,1073.7
+29.8,146.3,big,Sandy Soil,97,22,50,7.5,Soybean,754.5
+24.1,189.8,small, Clayey Soil,117,30,50,6,Potato,573.6
+32.2,94.5,medium, Laterite Soil,90,14,52,6.9,Chickpea,1734.9
+30.5,61.2,small, Red Loam,104,23,47,6.3,Mustard,995.7
+22.9,210.6,small, Alluvial Soil,81,16,45,7.5,Millets,327.8
+22.1,132.5,big, Black Soil,88,5,47,6.8,Peanuts,507.3
+27.7,104.3,small, Red Soil,92,7,45,7,Eggplant,942.7
+30.5,61.2,small, Red Loam,81,18,50,6.5,Mustard,995.7
+22.9,210.6,small, Alluvial Soil,111,5,55,7.2,Millets,327.8
+22.1,132.5,big, Black Soil,108,23,51,5.8,Peanuts,507.3
+27.7,104.3,small, Red Soil,113,30,50,6,Eggplant,942.7
+26.8,150.1,big, Alluvial Soil,83,10,53,6.2,Pigeon Pea,1016.8
+24.5,191.2,small, Sandy Soil,101,11,51,7,Okra,710.6
+28.7,87.3,medium, Laterite Soil,114,21,55,6.8,Lentil,1516.9
+30,120,medium, Clay Loam,99,6,45,6.5,Sugarcane,1200
+20,200,big, Red Soil,92,20,55,6.8,Cotton,500
+28,100,small, Alluvial Soil,92,7,48,6,Tomato,600
+26,80,medium, Black Soil,91,24,55,7,Groundnut,900
+29,150,big, Sandy Soil,110,21,54,6.5,Soybean,700
+24,180,small, Clayey Soil,112,25,51,5.8,Potato,450
+32,90,medium, Laterite Soil,89,25,54,4,Chickpea,1000
+33.4,850,big,Clay,100,10,53,7.5,Corn,6900
+26.1,950,medium,Sandy,83,22,54,6,Peanuts,5100
+29.8,1050,small,Loamy,95,14,50,6.9,Lentils,3600
+31.2,1200,medium,Clay,119,30,49,6.3,Sugarcane,9000
+28.9,1300,big,Sandy,97,12,47,7.5,Millet,5800
+32.7,750,small,Loamy,110,7,45,6.8,Soybean,4200
+27.1,850,medium,Clay,96,18,50,7,Groundnut,5400
+30.1,1150,big,Sandy,83,23,55,6.5,Sunflower,6700
+30.5,950,small,Loamy,120,24,47,7.2,Potato,5000
+28.8,1250,small,Sandy,115,17,55,5.8,Millet,4500
+31.9,900,big,Clay,114,27,48,6,Corn,7800
+25.8,1000,medium,Loamy,101,25,52,6.2,Peanuts,5200
+29.5,1000,small,Sandy,118,18,52,7,Chickpea,4000
+30.6,1100,medium,Clay,95,26,45,6.8,Sugarcane,9200
+28.1,1350,big,Loamy,81,25,49,6.5,Cotton,6300
+30,120,Medium,Clay Loam,117,24,53,6.8,Sugarcane,1200
+20,200,Big,Red Loam,114,30,51,6,Cotton,500
+28,100,Small,Alluvial   ,113,6,52,7,Tomato,600
+26,80,Medium,Black,108,26,52,6.5,Groundnut,900
+29,150,Big,Sandy,81,30,48,5.8,Soybean,700
+24,180,Small,Clayey,115,9,52,4,Potato,450
+32,90,Medium,Laterite,83,7,45,7.5,Chickpea,1000
+31,70,Small,Red Loam,84,21,55,6,Mustard,800
+3,200,Small,Alluvial,109,26,45,6.9,Millets,300
+22,150,Big,Black,95,27,55,6.3,Cotton,400
+28,100,Small,Red,119,5,55,7.5,Tomato,700
+26,80,Medium,Clayey,110,14,51,6.8,Groundnut,1000
+27,150,Big,Alluvial,82,18,48,7,Soybean,900
+25,180,Small,Sandy,87,14,48,6.5,Potato,600
+29,90,Medium,Laterite,85,9,53,7.2,Chickpea,1200
+30,70,Small,Red Loam,100,6,53,5.8,Mustard,900
+23,200,Small,Alluvial,107,12,46,6,Millets,400
+31,120,Medium,Clay Loam,91,13,47,6.2,Sugarcane,1000
+21,150,Big,Black,102,25,50,7,Cotton,500
+28,100,Small,Red,117,25,53,6.8,Tomato,600
+27,80,Medium,Clayey,85,21,52,6.5,Groundnut,800
+30,120,Medium,Clay Loam,104,25,55,6.8,Sugarcane,1200
+20,200,Big,Red,102,24,54,6,Cotton,500
+28,100,Small,Alluvial,116,25,50,7,Tomato,600
+26,80,Medium,Black,100,17,48,6.5,Groundnut,900
+29,150,Big,Sandy,110,25,54,5.8,Soybean,700
+24,180,Small,Clayey,104,25,51,4,Potato,450
+32,90,Medium,Laterite,107,11,54,7.5,Chickpea,1000
+31,70,Small,Red Loam,98,26,52,6,Mustard,800
+33.4,850,big,Clay,88,17,52,6.9,Corn,6900
+26.1,950,medium,Sandy,87,25,46,6.3,Peanuts,5100
+29.8,1050,small,Loamy,120,8,46,7.5,Lentils,3600
+31.2,1200,medium,Clay,95,13,46,6.8,Sugarcane,9000
+28.9,1300,big,Sandy,108,22,47,7,Millet,5800
+32.7,750,small,Loamy,82,13,52,6.5,Soybean,4200
+27.1,850,medium,Clay,120,23,55,7.2,Groundnut,5400
+30.1,1150,big,Sandy,110,22,47,5.8,Sunflower,6700
+30.5,950,small,Loamy,95,23,45,6,Potato,5000
+28.8,1250,small,Sandy,106,10,49,6.2,Millet,4500
+31.9,900,big,Clay,99,12,52,7,Corn,7800
+25.8,1000,medium,Loamy,106,20,51,6.8,Peanuts,5200
+29.5,1000,small,Sandy,83,11,53,6.5,Chickpea,4000
+30.6,1100,medium,Clay,117,19,55,6.8,Sugarcane,9200
+28.1,1350,big,Loamy,98,26,49,6,Cotton,6300
+30,120,Medium,Loam,113,20,48,7,Sugarcane,1200
+20,200,Big,Red,101,17,47,6.5,Cotton,500
+28,100,Small,Alluvial,98,7,45,5.8,Tomato,600
+26,80,Medium,Black,93,22,48,4,Groundnut,900
+29,150,Big,Sandy,95,21,47,7.5,Soybean,700
+24,180,Small,ClayeySoil,109,12,48,6,Potato,450
+32,90,Medium,LateriteSoil,118,12,47,6.9,Chickpea,1000
+31,70,Small,RedLoam,100,14,49,6.3,Mustard,800
+3,200,Small,AlluvialSoil,89,9,47,7.5,Millets,300
+22,150,Big,BlackSoil,95,16,46,6.8,Cotton,400
+28,100,Small,Red,95,7,45,7,Tomato,700
+26,80,Medium,Clayey,87,6,45,6.5,Groundnut,1000
+27,150,Big,Alluvial,93,20,50,7.2,Soybean,900
+25,180,Small,Sandy,84,29,49,5.8,Potato,600
+29,90,Medium,Laterite,111,5,47,6,Chickpea,1200
+30,70,Small,Red,111,5,52,6.2,Mustard,900
+23,200,Small,Alluvial,111,15,54,7,Millets,400
+31,120,Medium,Clay,89,11,47,6.8,Sugarcane,1000
+21,150,Big,Black,110,15,48,6.5,Cotton,500
+28,100,Small,Red,95,30,52,6.8,Tomato,600
+27,80,Medium,Clayey,115,12,52,6,Groundnut,800
+30,120,Medium,Clay,120,25,50,7,Sugarcane,1200
+20,200,Big,Red,102,11,45,6.5,Cotton,500
+28,100,Small,Alluvial,94,5,55,5.8,Tomato,600
+26,80,Medium,Black,84,18,46,4,Groundnut,900
+29,150,Big,Sandy,107,22,54,7.5,Soybean,700
+24,180,Small,Clayey,80,18,52,6,Potato,450
+32,90,Medium,Laterite,86,18,45,6.9,Chickpea,1000
+31,70,Small,Red,113,28,48,6.3,Mustard,800
+29.9,1000,small,Clay,115,18,53,7.5,Potato,5080
+27.3,900,small,Loamy,82,20,54,6.8,Wheat,3010
+33.4,850,big,Clay,98,22,47,7,Rice,5300
+26.1,950,medium,Sandy,117,25,54,6.5,Maize,6200
+29.8,1050,small,Loamy,83,15,49,7.2,Barley,2600
+31.2,1200,medium,Clay,120,16,51,5.8,Sugarcane,8300
+28.9,1300,big,Sandy,111,5,50,6,Cotton,3600
+32.7,750,small,Loamy,85,21,47,6.2,Soybean,2000
+27.1,850,medium,Clay,90,23,54,7,Groundnut,3200
+30.1,1150,big,Sandy,99,29,55,6.8,Sunflower,4600
+30.5,950,small,Loamy,102,11,47,6.5,Potato,5100
+28.8,1250,small,Sandy,80,18,51,6.8,Wheat,2950
+31.9,900,big,Clay,87,21,52,6,Rice,5200
+25.8,1000,medium,Loamy,114,8,52,7,Maize,6100
+29.5,1000,small,Sandy,99,6,46,6.5,Barley,2700
+30.6,1100,medium,Clay,89,25,50,5.8,Sugarcane,8400
+28.1,1350,big,Loamy,96,13,55,4,Cotton,3550
+28.5,1200,small,Clay,82,26,47,7.5,Maize,5800
+32.1,800,medium,Sandy,106,21,52,6,Soybean,4200
+25.6,900,big,Loamy,90,15,52,6.9,Sorghum,3100
+29.3,1100,small,Clay,106,16,54,6.3,Sunflower,4500
+30.2,1000,medium,Sandy,24,128,196,7.5,Peanut,3100
+27.8,1400,big,Loamy,7,144,197,6.8,Cotton,3900
+31.5,700,small,Clay,14,128,205,7,Potato,4200
+26.4,800,medium,Sandy,8,120,201,6.5,Sugarcane,7100
+28.7,1200,big,Loamy,20,129,201,7.2,Tomato,5500
+29.9,1000,small,Clay,32,137,204,5.8,Onion,3900
+27.3,900,small,Loamy,27,139,205,6,Barley,3800
+33.4,850,big,Clay,0,123,205,6.2,Mustard,3100
+26.1,950,medium,Sandy,22,144,196,7,Peas,3700
+29.8,1050,small,Loamy,1,124,199,6.8,Lentils,2700
+31.2,1200,medium,Clay,30,122,197,6.5,Chickpea,3900
+28.9,1300,big,Sandy,29,121,196,6.8,Okra,3200
+32.7,750,small,Loamy,13,126,204,6,Cotton,4000
+27.1,850,medium,Clay,9,139,199,7,Soybean,4100
+30.1,1150,big,Sandy,0,133,200,6.5,Peanut,2800
+30.5,950,small,Loamy,30,143,199,5.8,Potato,4900
+28.8,1250,small,Sandy,36,140,198,4,Sunflower,4900
+31.9,900,big,Clay,37,137,199,7.5,Tomato,6000
+25.8,1000,medium,Loamy,33,121,203,6,Sorghum,3000
+29.5,1000,small,Sandy,7,144,195,6.9,Onion,4400
+30.6,1100,medium,Clay,35,128,205,6.3,Sugarcane,7800
+28.1,1350,big,Loamy,29,128,198,7.5,Mustard,3400
+28.5,1200,small,Clay,2,143,196,6.8,Maize,460
+30.9,750,small,Clay,34,140,198,7,Soybean,1900
+26.2,850,medium,Sandy,29,144,204,6.5,Groundnut,3400
+28.9,1150,big,Loamy,32,141,203,7.2,Sunflower,4900
+29.2,950,small,Clay,13,144,197,5.8,Potato,5200
+29.8,1250,small,Clay,25,143,198,6,Wheat,3300
+31.9,800,medium,Sandy,9,137,200,6.2,Rice,5300
+25.5,950,big,Loamy,6,144,198,7,Maize,6200
+28.8,1100,small,Clay,37,126,196,6.8,Barley,2800
+30.1,1000,medium,Sandy,2,120,203,6.5,Sugarcane,8300
+27.7,1300,big,Loamy,11,143,197,6.8,Cotton,3900
+28.5,1200,small,Clay,10,141,201,6,Wheat,2900
+32.1,800,medium,Sandy,24,142,202,7,Rice,5100
+25.6,900,big,Loamy,23,138,195,6.5,Maize,6050
+29.3,1100,small,Clay,18,125,204,5.8,Barley,2550
+30.2,1000,medium,Sandy,13,121,196,4,Sugarcane,8200
+27.8,1400,big,Loamy,26,122,202,7.5,Cotton,3400
+31.5,700,small,Clay,28,123,202,6,Soybean,1950
+26.4,800,medium,Sandy,26,121,201,6.9,Groundnut,3100
+28.7,1200,big,Loamy,21,137,196,6.3,Sunflower,4520
+26.4,800,medium,Sandy,21,135,198,7.5,Groundnut,3100
+28.7,1200,big,Loamy,5,144,205,6.8,Sunflower,4520
+29.9,1000,small,Clay,2,123,205,7,Potato,5080
+27.3,900,small,Loamy,15,133,199,6.5,Wheat,3010
+33.4,850,big,Clay,31,130,198,7.2,Rice,5300
+26.1,950,medium,Sandy,25,143,200,5.8,Maize,6200
+29.8,1050,small,Loamy,16,143,204,6,Barley,2600
+31.2,1200,medium,Clay,19,122,202,6.2,Sugarcane,8300
+28.9,1300,big,Sandy,10,125,196,7,Cotton,3600
+32.7,750,small,Loamy,20,139,202,6.8,Soybean,2000
+27.1,850,medium,Clay,28,123,198,6.5,Groundnut,3200
+30.1,1150,big,Sandy,28,136,200,6.8,Sunflower,4600
+30.5,950,small,Loamy,2,131,199,6,Potato,5100
+28.8,1250,small,Sandy,2,140,197,7,Wheat,2950
+31.9,900,big,Clay,27,138,201,6.5,Rice,5200
+25.8,1000,medium,Loamy,30,127,204,5.8,Maize,6100
+29.5,1000,small,Sandy,32,145,203,4,Barley,2700
+30.6,1100,medium,Clay,29,139,205,7.5,Sugarcane,8400
+28.1,1350,big,Loamy,26,126,195,6,Cotton,3550
+28.5,1200,small,Clay,40,136,202,6.9,Wheat,2900
+32.1,800,medium,Sandy,6,124,200,6.3,Rice,5100
+25.6,900,big,Loamy,35,138,200,7.5,Maize,6050
+29.3,1100,small,Clay,17,136,196,6.8,Barley,2550
+30.2,1000,medium,Sandy,33,134,205,7,Sugarcane,8200
+27.8,1400,big,Loamy,16,143,197,6.5,Cotton,3400
+28.5,1200, small, Clay,27,120,200,7.2, Wheat,3000
+32.1,800, medium, Sandy,29,145,205,5.8, Rice,5000
+25.6,900, big, Loamy,3,141,197,6, Maize,6000
+29.3,1100, small, Clay,15,123,204,6.2, Barley,2500
+30.2,1000, medium, Sandy,5,136,195,7, Sugarcane,8000
+27.8,1400, big, Loamy,10,136,204,6.8, Cotton,3500
+31.5,700, small, Clay,7,141,195,6.5, Soybean,2000
+6.4,800, medium, Sandy,2,129,201,6.8, Groundnut,3000
+28.7,1200, big, Loamy,29,138,197,6, Sunflower,4500
+29.9,1000, small, Clay,30,137,200,7, Potato,5000
+27.6,900, small, Loamy,29,132,204,6.5, Wheat,2700
+31.2,850, medium, Sandy,14,139,197,5.8, Rice,4800
+25.4,1000, big, Clay,18,125,203,4, Maize,5500
+29,1200, small, Loamy,33,143,204,7.5, Barley,2200
+30.5,1100, medium, Clay,40,144,196,6, Sugarcane,7500
+28.2,1300, big, Sandy,9,143,197,6.9, Cotton,3400
+31.9,750, small, Loamy,38,135,203,6.3, Soybean,1900
+26.9,850, medium, Clay,28,130,196,7.5, Groundnut,2800
+28,1150, big, Sandy,35,142,203,6.8, Sunflower,4200
+30.1,900, small, Clay,12,129,205,7, Potato,4800
+31.9,750, small, Loamy,1,135,203,6.5, Soybean,1900
+26.9,850, medium, Clay,0,145,205,7.2, Groundnut,2800
+28,1150, big, Sandy,31,121,201,5.8, Sunflower,4200
+30.1,900, small, Clay,35,131,203,6, Potato,4800
+28.9,950, small, Sandy,29,140,195,6.2, Wheat,2900
+32.8,750, medium, Loamy,33,138,198,7, Rice,5100
+25.3,1100, big, Sandy,14,140,197,6.8, Maize,5800
+29.5,1050, small, Clay,35,145,195,6.5, Barley,2600
+29.8,1250, medium, Loamy,40,120,197,6.8, Sugarcane,8200
+27.4,1350, big, Clay,25,132,198,6, Cotton,3300
+28.5,1200, small, Clay,31,137,196,7, Wheat,3100
+32.1,800, medium, Sandy,36,144,196,6.5, Rice,5000
+25.6,900, big, Loamy,10,140,197,5.8, Maize,6400
+29.3,1100, small, Clay,22,30,12,4, Barley,2600
+30.2,1000, medium, Sandy,37,6,13,7.5, Sugarcane,8200
+27.8,1400, big, Loamy,27,13,6,6, Cotton,3600
+31.5,700, small, Clay,7,16,9,6.9, Soybean,2200
+26.4,800, medium, Sandy,20,7,9,6.3, Groundnut,3300
+28.7,1200, big, Loamy,26,27,10,7.5, Sunflower,4800
+29.9,1000, small, Clay,5,23,15,6.8, Potato,5100
+30.9,750,small,Clay,0,18,14,7,Soybean,1900
+26.2,850,medium,Sandy,39,24,14,6.5,Groundnut,3400
+28.9,1150,big,Loamy,13,23,6,7.2,Sunflower,4900
+29.2,950,small,Clay,21,17,15,5.8,Potato,5200
+29.8,1250,small,Clay,33,12,8,6,Wheat,3300
+31.9,800,medium,Sandy,6,9,12,6.2,Rice,5300
+25.5,950,big,Loamy,19,7,10,7,Maize,6200
+28.8,1100,small,Clay,24,18,6,6.8,Barley,2800
+30.1,1000,medium,Sandy,9,11,8,6.5,Sugarcane,8300
+27.7,1300,big,Loamy,31,8,7,6.8,Cotton,3900
+28.5,1200,small,Clay,22,17,5,6,Wheat,2900
+32.1,800,medium,Sandy,13,5,8,7,Rice,5100
+25.6,900,big,Loamy,16,8,9,6.5,Maize,6050
+29.3,1100,small,Clay,4,13,6,5.8,Barley,2550
+30.2,1000,medium,Sandy,0,25,14,4,Sugarcane,8200
+27.8,1400,big,Loamy,8,7,10,7.5,Cotton,3400
+31.5,700,small,Clay,4,23,5,6,Soybean,1950
+26.4,800,medium,Sandy,33,14,8,6.9,Groundnut,3100
+28.7,1200,big,Loamy,30,7,15,6.3,Sunflower,4520
+26.4,800,medium,Sandy,21,29,12,7.5,Groundnut,3100
+28.7,1200,big,Loamy,11,14,5,6.8,Sunflower,4520
+29.9,1000,small,Clay,9,8,15,7,Potato,5080
+27.3,900,small,Loamy,5,18,14,6.5,Wheat,3010
+33.4,850,big,Clay,29,25,14,7.2,Rice,5300
+26.1,950,medium,Sandy,33,12,15,5.8,Maize,6200
+29.8,1050,small,Loamy,8,16,6,6,Barley,2600
+31.2,1200,medium,Clay,15,14,8,6.2,Sugarcane,8300
+28.9,1300,big,Sandy,16,7,8,7,Cotton,3600
+32.7,750,small,Loamy,0,12,7,6.8,Soybean,2000
+27.1,850,medium,Clay,5,25,6,6.5,Groundnut,3200
+30.1,1150,big,Sandy,6,8,11,6.8,Sunflower,4600
+30.5,950,small,Loamy,10,5,5,6,Potato,5100
+28.8,1250,small,Sandy,1,17,6,7,Wheat,2950
+31.9,900,big,Clay,1,30,10,6.5,Rice,5200
+25.8,1000,medium,Loamy,0,23,15,5.8,Maize,6100
+29.5,1000,small,Sandy,24,27,9,4,Barley,2700
+30.6,1100,medium,Clay,36,11,13,7.5,Sugarcane,8400
+28.1,1350,big,Loamy,40,21,8,6,Cotton,3550
+28.5,1200,small,Clay,40,22,6,6.9,Wheat,2900
+32.1,800,medium,Sandy,32,18,13,6.3,Rice,5100
+25.6,900,big,Loamy,9,10,10,7.5,Maize,6050
+29.3,1100,small,Clay,13,16,8,6.8,Barley,2550
+30.2,1000,medium,Sandy,15,9,11,7,Sugarcane,8200
+27.8,1400,big,Loamy,29,11,5,6.5,Cotton,3400
+29.9,1000,small,Clay,1,15,9,7.2,Potato,5080
+27.3,900,small,Loamy,18,5,11,5.8,Wheat,3010
+33.4,850,big,Clay,14,22,9,6,Rice,5300
+26.1,950,medium,Sandy,33,15,7,6.2,Maize,6200
+29.8,1050,small,Loamy,4,6,7,7,Barley,2600
+31.2,1200,medium,Clay,17,16,14,6.8,Sugarcane,8300
+28.9,1300,big,Sandy,12,20,10,6.5,Cotton,3600
+32.7,750,small,Loamy,34,29,8,6.8,Soybean,2000
+27.1,850,medium,Clay,39,28,10,6,Groundnut,3200
+30.1,1150,big,Sandy,31,25,12,7,Sunflower,4600
+30.5,950,small,Loamy,12,6,8,6.5,Potato,5100
+28.8,1250,small,Sandy,12,29,13,5.8,Wheat,2950
+31.9,900,big,Clay,26,11,11,4,Rice,5200
+25.8,1000,medium,Loamy,19,24,15,7.5,Maize,6100
+29.5,1000,small,Sandy,39,21,9,6,Barley,2700
+30.6,1100,medium,Clay,16,29,13,6.9,Sugarcane,8400
+28.1,1350,big,Loamy,36,29,13,6.3,Cotton,3550
+28.5,1200,small,Clay,37,23,12,7.5,Maize,5800
+32.1,800,medium,Sandy,39,9,15,6.8,Soybean,4200
+25.6,900,big,Loamy,31,5,14,7,Sorghum,3100
+29.3,1100,small,Clay,18,12,8,6.5,Sunflower,4500
+30.2,1000,medium,Sandy,20,20,10,7.2,Peanut,3100
+27.8,1400,big,Loamy,5,8,5,5.8,Cotton,3900
+31.5,700,small,Clay,20,8,12,6,Potato,4200
+26.4,800,medium,Sandy,25,21,11,6.2,Sugarcane,7100
+28.7,1200,big,Loamy,14,19,14,7,Tomato,5500
+29.9,1000,small,Clay,37,18,12,6.8,Onion,3900
+27.3,900,small,Loamy,26,15,6,6.5,Barley,3800
+33.4,850,big,Clay,13,22,5,6.8,Mustard,3100
+26.1,950,medium,Sandy,32,25,9,6,Peas,3700
+29.8,1050,small,Loamy,19,7,9,7,Lentils,2700
+31.2,1200,medium,Clay,28,7,9,6.5,Chickpea,3900
+28.9,1300,big,Sandy,24,30,11,5.8,Okra,3200
+32.7,750,small,Loamy,7,17,10,4,Cotton,4000
+27.1,850,medium,Clay,18,23,8,7.5,Soybean,4100
+30.1,1150,big,Sandy,7,20,12,6,Peanut,2800
+30.5,950,small,Loamy,20,23,11,6.9,Potato,4900
+28.8,1250,small,Sandy,18,14,11,6.3,Sunflower,4900
+31.9,900,big,Clay,34,11,10,7.5,Tomato,6000
+25.8,1000,medium,Loamy,20,29,10,6.8,Sorghum,3000
+29.5,1000,small,Sandy,37,24,13,7,Onion,4400
+30.6,1100,medium,Clay,12,8,10,6.5,Sugarcane,7800
+28.1,1350,big,Loamy,34,10,14,7.2,Mustard,3400
+28.5,1200,small,Clay,6,13,9,5.8,Maize,460
+33.4,850,big,Clay,27,30,5,6,Corn,6900
+26.1,950,medium,Sandy,13,8,12,6.2,Peanuts,5100
+29.8,1050,small,Loamy,6,7,7,7,Lentils,3600
+31.2,1200,medium,Clay,40,17,15,6.8,Sugarcane,9000
+28.9,1300,big,Sandy,31,26,9,6.5,Millet,5800
+32.7,750,small,Loamy,61,68,50,6.8,Soybean,4200
+27.1,850,medium,Clay,58,46,45,6,Groundnut,5400
+30.1,1150,big,Sandy,45,47,55,7,Sunflower,6700
+30.5,950,small,Loamy,39,65,53,6.5,Potato,5000
+28.8,1250,small,Sandy,31,68,45,5.8,Millet,4500
+31.9,900,big,Clay,70,68,45,4,Corn,7800
+25.8,1000,medium,Loamy,68,62,50,7.5,Peanuts,5200
+29.5,1000,small,Sandy,34,65,47,6,Chickpea,4000
+30.6,1100,medium,Clay,38,68,54,6.9,Sugarcane,9200
+28.1,1350,big,Loamy,69,64,47,6.3,Cotton,6300
+30,120,Medium,Loam,58,51,47,7.5,Sugarcane,1200
+20,200,Big,Red,59,47,53,6.8,Cotton,500
+28,100,Small,Alluvial,44,64,54,7,Tomato,600
+26,80,Medium,Black,56,57,48,6.5,Groundnut,900
+29,150,Big,Sandy,69,60,54,7.2,Soybean,700
+24,180,Small,ClayeySoil,56,58,49,5.8,Potato,450
+32,90,Medium,LateriteSoil,49,55,53,6,Chickpea,1000
+31,70,Small,RedLoam,38,51,52,6.2,Mustard,800
+3,200,Small,AlluvialSoil,54,65,47,7,Millets,300
+22,150,Big,BlackSoil,57,57,51,6.8,Cotton,400
+28,100,Small,Red,39,52,53,6.5,Tomato,700
+26,80,Medium,Clayey,58,67,45,6.8,Groundnut,1000
+27,150,Big,Alluvial,61,64,52,6,Soybean,900
+25,180,Small,Sandy,34,62,55,7,Potato,600
+29,90,Medium,Laterite,31,48,45,6.5,Chickpea,1200
+30,70,Small,Red,47,46,52,5.8,Mustard,900
+23,200,Small,Alluvial,32,68,52,4,Millets,400
+31,120,Medium,Clay,36,59,46,7.5,Sugarcane,1000
+21,150,Big,Black,61,51,51,6,Cotton,500
+28,100,Small,Red,70,54,46,6.9,Tomato,600
+27,80,Medium,Clayey,44,56,49,6.3,Groundnut,800
+30,120,Medium,Clay,34,68,51,7.5,Sugarcane,1200
+20,200,Big,Red,50,59,47,6.8,Cotton,500
+28,100,Small,Alluvial,39,70,52,7,Tomato,600
+37,80,Medium,Black,34,61,49,6.5,Groundnut,900
+29,150,Big,Sandy,44,60,55,7.2,Soybean,700
+24,180,Small,sandy,31,62,52,5.8,Potato,450
+32,90,Medium,Laterite,65,62,51,6,Chickpea,1000
+31,70,Small,Red,44,57,53,6.2,Mustard,800
+33.4,850,big,Clay,50,47,48,7,Corn,6900
+26.1,950,medium,Sandy,43,50,48,6.8,Peanuts,5100
+29.8,1050,small,Loamy,60,46,53,6.5,Lentils,3600
+31.2,1200,medium,Clay,70,68,55,6.8,Sugarcane,9000
+28.9,1300,big,Sandy,59,62,52,6,Millet,5800
+32.7,750,small,Loamy,60,58,51,7,Soybean,4200
+27.1,850,medium,Clay,42,60,47,6.5,Groundnut,5400
+30.1,1150,big,Sandy,35,66,47,5.8,Sunflower,6700
+30.5,950,small,Loamy,34,65,48,4,Potato,5000
+28.8,1250,small,Sandy,36,54,46,7.5,Millet,4500
+31.9,900,big,Clay,39,64,52,6,Corn,7800
+25.8,1000,medium,Loamy,37,52,47,6.9,Peanuts,5200
+29.5,1000,small,Sandy,33,47,46,6.3,Chickpea,4000
+30.6,1100,medium,Clay,34,34,35,7.5,Sugarcane,9200
+28.1,1350,big,Loamy,36,19,32,6.8,Cotton,6300
+30,120,Medium,Clay Loam,7,17,26,7,Sugarcane,1200
+20,200,Big,Red Loam,38,15,27,6.5,Cotton,500
+28,100,Small,Alluvial   ,5,19,25,7.2,Tomato,600
+26,80,Medium,Black,37,36,26,5.8,Groundnut,900
+29,150,Big,Sandy,21,31,32,6,Soybean,700
+24,180,Small,Clayey,37,36,27,6.2,Potato,450
+32,90,Medium,Laterite,23,23,30,7,Chickpea,1000
+31,70,Small,Red Loam,36,26,26,6.8,Mustard,800
+3,200,Small,Alluvial,24,33,35,6.5,Millets,300
+22,150,Big,Black,26,18,30,6.8,Cotton,400
+28,100,Small,Red,22,17,26,6,Tomato,700
+26,80,Medium,Clayey,11,34,32,7,Groundnut,1000
+27,150,Big,Alluvial,29,35,28,6.5,Soybean,900
+25,180,Small,Sandy,22,28,26,5.8,Potato,600
+29,90,Medium,Laterite,23,24,32,4,Chickpea,1200
+30,70,Small,Red Loam,1,35,34,7.5,Mustard,900
+23,200,Small,Alluvial,2,24,34,6,Millets,400
+31,120,Medium,Clay Loam,39,37,25,6.9,Sugarcane,1000
+21,150,Big,Black,15,36,27,6.3,Cotton,500
+28,100,Small,Red,3,18,31,7.5,Tomato,600
+27,80,Medium,Clayey,8,38,32,6.8,Groundnut,800
+30,120,Medium,Clay Loam,33,31,34,7,Sugarcane,1200
+20,200,Big,Red,14,29,32,6.5,Cotton,500
+28,100,Small,Alluvial,18,20,26,7.2,Tomato,600
+26,80,Medium,Black,9,21,32,5.8,Groundnut,900
+29,150,Big,Sandy,20,30,27,6,Soybean,700
+24,180,Small,Clayey,9,38,25,6.2,Potato,450
+32,90,Medium,Laterite,26,24,34,7,Chickpea,1000
+31,70,Small,Red Loam,31,36,29,6.8,Mustard,800
+21,150,big, Black Soil,14,18,35,6.5,Papaya,500
+28,100,small, Red Soil,40,16,35,6.8,Onion,600
+30,120,medium, Clay Loam,28,27,34,6,Sugarcane,1200
+20,200,big, Red Soil,0,17,30,7,Cotton,500
+28,100,small, Alluvial Soil,1,29,29,6.5,Tomato,600
+26,80,medium, Black Soil,2,36,31,5.8,Groundnut,900
+29,150,big,Sandy Soil,12,27,26,4,Soybean,700
+24,180,small, Clayey Soil,7,28,35,7.5,Potato,450
+32,90,medium, Laterite Soil,0,36,26,6,Chickpea,1000
+31,70,small, Red Loam,26,35,31,6.9,Mustard,800
+23,200,small, Alluvial Soil,27,21,30,6.3,Millets,300
+22,150,big, Black Soil,22,38,31,7.5,Peanuts,400
+28,100,small, Red Soil,22,18,31,6.8,Eggplant,700
+27,150,big, Alluvial Soil,28,23,28,7,Pigeon Pea,900
+25,180,small, Sandy Soil,7,31,27,6.5,Okra,600
+29,90,medium, Laterite Soil,29,34,26,7.2,Lentil,1200
+30,70,small, Red Loam,8,37,33,5.8,Cabbage,900
+23,200,small, Alluvial Soil,39,16,27,6,Radish,400
+31,120,medium, Clay Loam,40,24,25,6.2,Pineapple,1000
+21,150,big, Black Soil,19,38,26,7,Papaya,500
+29.1,82.5,medium, Clay Loam,21,21,30,6.8,Sugarcane,1525.1
+20.8,203.4,big, Red Soil,22,18,33,6.5,Cotton,681.9
+27.6,109.7,small, Alluvial Soil,31,20,30,6.8,Tomato,839.2
+26.3,73.1,medium, Black Soil,18,26,31,6,Groundnut,1073.7
+29.8,146.3,big,Sandy Soil,24,130,195,7,Soybean,754.5
+24.1,189.8,small, Clayey Soil,13,144,204,6.5,Potato,573.6
+32.2,94.5,medium, Laterite Soil,22,123,205,5.8,Chickpea,1734.9
+30.5,61.2,small, Red Loam,36,125,196,4,Mustard,995.7
+22.9,210.6,small, Alluvial Soil,24,131,196,7.5,Millets,327.8
+22.1,132.5,big, Black Soil,2,123,198,6,Peanuts,507.3
+27.7,104.3,small, Red Soil,35,140,197,6.9,Eggplant,942.7
+30.5,61.2,small, Red Loam,11,122,195,6.3,Mustard,995.7
+22.9,210.6,small, Alluvial Soil,6,123,203,7.5,Millets,327.8
+22.1,132.5,big, Black Soil,17,134,204,6.8,Peanuts,507.3
+27.7,104.3,small, Red Soil,25,130,197,7,Eggplant,942.7
+26.8,150.1,big, Alluvial Soil,27,145,205,6.5,Pigeon Pea,1016.8
+24.5,191.2,small, Sandy Soil,9,122,201,7.2,Okra,710.6
+28.7,87.3,medium, Laterite Soil,16,139,203,5.8,Lentil,1516.9
+30,120,medium, Clay Loam,32,141,204,6,Sugarcane,1200
+20,200,big, Red Soil,22,138,195,6.2,Cotton,500
+28,100,small, Alluvial Soil,31,144,202,7,Tomato,600
+26,80,medium, Black Soil,3,136,205,6.8,Groundnut,900
+29,150,big, Sandy Soil,28,122,197,6.5,Soybean,700
+24,180,small, Clayey Soil,4,136,204,6.8,Potato,450
+32,90,medium, Laterite Soil,39,145,201,6,Chickpea,1000
+23,200, Small ,Alluvial Soil,38,132,197,7, Millets,300
+22,150, Big ,Black Soil,36,133,198,6.5, Peanuts,400
+29,100, Small, Red Soil,25,121,201,5.8, Eggplant,700
+28,160, Big, Alluvial Soil,15,125,199,4, Pigeon Pea,900
+26,180, Small, Sandy Soil,24,140,205,7.5, Okra,600
+32,90, Medium ,Laterite Soil,13,132,203,6, Lentil,1200
+29,70,Small,Red,5,126,197,6.9,Cabbage,1600
+23,200, Small, Alluvial Soil,30,120,200,6.3, Radish,400
+31,120, Medium, Clay Loam,23,142,197,7.5, Pineapple,1000
+21,150, Big, Black Soil,26,135,203,6.8, Papaya,500
+28,100, Small, Red Soil,7,126,203,7, Onion,600
+30,120, Medium ,Clay Loam,32,139,198,6.5, Sugarcane,1200
+20,200, Big ,Red Soil,9,141,202,7.2, Cotton,500
+28,100, Small, Alluvial Soil,20,142,196,5.8, Tomato,600
+26,80, Medium ,Black Soil,32,129,201,6, Groundnut,900
+29,150, Big, Sandy Soil,3,134,199,6.2, Soybean,700
+24,180, Small, Clayey Soil,38,138,204,7, Potato,450
+32,90, Medium, Laterite Soil,14,131,198,6.8, Chickpea,1000
+31,70, Small, Red Loam,20,122,204,6.5, Mustard,800
+23,200, Small, Alluvial Soil,40,126,201,6.8, Millets,300
+22,150, Big, Black Soil,36,128,204,6, Peanuts,400
+28,100, Small, Red Soil,11,132,197,7, Eggplant,700
+27,150, Big ,Alluvial Soil,0,137,195,6.5, Pigeon Pea,900
+25,180, Small, Sandy Soil,19,123,200,5.8, Okra,600
+29,90, Medium ,Laterite Soil,31,136,197,4, Lentil,1200
+30,70, Small ,Red Loam,4,134,200,7.5, Cabbage,900
+23,200, Small ,Alluvial Soil,39,139,201,6, Radish,400
+31,120, Medium ,Clay Loam,8,127,196,6.9, Pineapple,1000
+21,150, Big ,Black Soil,39,138,203,6.3, Papaya,500
+28,100, Small, Red Soil,32,120,204,7.5, Onion,600
+27,120, Medium, Clay Loam,12,142,203,6.8, Sugarcane,1100
+20,200, Big ,Red Soil,8,133,195,7, Cotton,450
+28,90, Small ,Alluvial Soil,8,139,199,6.5, Tomato,700
+26,80, Medium ,Black Soil,21,134,202,7.2, Groundnut,900
+30,140, Big ,Sandy Soil,40,140,195,5.8, Soybean,750
+24,180, Small, Clayey Soil,39,127,202,6, Potato,500
+32,80, Medium ,Laterite Soil,19,120,195,6.2, Chickpea,1200
+31,70, Small ,Red Loam,21,139,201,7, Mustard,850
+23,190, Small ,Alluvial Soil,17,136,195,6.8, Millets,400
+22,150, Big, Black Soil,33,139,203,6.5, Peanuts,350
+28,90, Small, Red Soil,22,133,201,6.8, Eggplant,800
+27,140, Big ,Alluvial Soil,32,130,196,6, Pigeon Pea,1000
+24,170, Small, Sandy Soil,37,135,205,7, Okra,650
+29,90, Medium ,Laterite Soil,15,140,195,6.5, Lentil,1050
+30,70, Small ,Red Loam,39,132,196,5.8, Cabbage,900
+23,200, Small ,Alluvial Soil,40,121,199,4, Radish,450
+24,170,small, Sandy Soil,40,132,202,7.5,Okra,650
+29,90,medium, Laterite Soil,29,142,203,6,Lentil,1050
+30,70,small, Red Loam,32,121,199,6.9,Cabbage,900
+23,200,small, Alluvial Soil,6,140,205,6.3,Radish,450
+31,120,medium, Clay Loam,8,120,196,7.5,Pineapple,1150
+21,150,big, Black Soil,34,133,202,6.8,Papaya,500
+23,124,small, Loamy Soil,35,135,199,7,Wheat,3475
+28,100,big, Clay Loam,16,145,199,6.5,Maize,5055
+24,90,small, Red Soil,8,136,201,7.2,Cotton,3045
+25,105,medium, Alluvial Soil,25,129,195,5.8,Sugarcane,7143
+26,110,big, Sandy Soil,16,130,201,6,Soybean,2010
+28,118,small,Red Loam,39,129,203,6.2,Tomato,4082
+24,150,medium, Black Soil,38,135,203,7,Groundnut,3510
+30,145,big, Laterite Soil,33,120,205,6.8,Potato,5055
+25,135,small, Clayey Soil,35,125,204,6.5,Chickpea,4082
+30,112,small, Alluvial Soil,1,132,200,6.8,Jowar,5055
+25,118,big, Red Loam,39,140,203,6,Millets,1818
+26,99,medium, Black Soil,28,145,202,7,Peanuts,2893
+28,115,big, Alluvial Soil,6,128,200,6.5,Eggplant,2607
+25,123,small, Clay Loam,6,139,199,5.8,Pineapple,550
+26,112,medium, Sandy Soil,29,122,196,4,Pigeon Pea,3571
+30,107,small, Alluvial Soil,37,144,197,7.5,Lentil,4857
+25,100,big, Black Soil,38,120,197,6,Cabbage,3045
+26,124,small,Small Red Soil,38,141,198,6.9,Beetroot,3571
+25,100,medium, Clay Loam,14,121,203,6.3,Rice,1000
+27,120,big, Red Soil,6,125,204,7.5,Maize,850
+20,200,small, Black Soil,32,138,197,6.8,Soybean,450
+28,90,medium, Alluvial Soil,11,124,204,7,Sugarcane,1100
+30,140,small, Sandy Soil,23,138,200,6.5,Tomato,700
+24,180,medium, Black Soil,40,143,201,7.2,Groundnut,900
+32,80,big, Laterite Soil,6,142,202,5.8,Potato,1200
+25,120,small, Red Soil,37,124,195,6,Chickpea,850
+23,190,small, Alluvial Soil,35,134,204,6.2,Millets,400
+22,150,big, Black Soil,119,25,51,7,Peanuts,350
+28,90,small, Red Loam,119,19,55,6.8,Eggplant,800
+27,140,big, Alluvial Soil,105,30,50,6.5,Pigeon Pea,1000
+24,170,small, Sandy Soil,114,8,50,6.8,Okra,650
+29,90,medium, Laterite Soil,93,22,52,6,Lentil,1050
+30,70,small, Red Loam,80,26,55,7,Cabbage,900
+23,200,small, Alluvial Soil,85,27,45,6.5,Radish,450
+31,120,medium, Clay Loam,85,22,53,5.8,Pineapple,1150
+21,150,big, Black Soil,82,22,45,4,Papaya,500
+25,100,medium, Clay Loam,118,13,54,7.5,Rice,1000
+27,120,big, Red Soil,83,25,53,6,Maize,850
+20,200,small, Black Soil,86,15,47,6.9,Soybean,450
+28,90,medium, Alluvial Soil,101,10,47,6.3,Sugarcane,1100
+30,140,small, Sandy Soil,119,9,50,7.5,Tomato,700
+24,180,medium, Black Soil,104,17,46,6.8,Groundnut,900
+32,80,big, Laterite Soil,95,12,51,7,Potato,1200
+25,120,small, Red Soil,102,14,52,6.5,Chickpea,850
+23,190,small, Alluvial Soil,109,21,55,7.2,Millets,400
+22,150,big, Black Soil,81,18,50,5.8,Peanuts,350
+25.1,574,big,clayey,103,17,51,6,potato,2100
+27.6,645,small,sandy,105,14,50,6.2,sugarcane,4000
+26.3,711,medium,loamy,97,8,52,7,sugarcane,4800
+29.1,502,big,clayey,120,19,49,6.8,sugarcane,5500
+23.6,638.2,small,loamy,95,16,55,6.5,wheat,3138
+29.4,957.4,medium,sandy,83,29,52,6.8,rice,4431
+27.2,715.9,large,clayey,83,9,45,6,maize,6724
+24.8,812.6,small,sandy,91,21,50,7,barley,3241
+28.1,553.8,medium,loamy,116,5,54,6.5,soybean,2428
+26.5,709.6,large,clayey,112,28,54,5.8,sugarcane,8425
+22.7,472.3,small,sandy,88,29,51,4,potato,4566
+24.3,862.1,medium,loamy,118,15,45,7.5,cotton,5228
+27.9,589.8,large,clayey,92,21,48,6,tomato,9836
+26.4,700.1,small,sandy,106,14,45,6.9,peanut,3455
+29.8,912.6,medium,loamy,99,5,47,6.3,chilli,7346
+24.1,767.5,large,clayey,98,8,51,7.5,sorghum,6148
+26.9,541.7,small,sandy,108,22,46,6.8,onion,2567
+28.7,609.4,medium,loamy,119,7,55,7,banana,13629
+25.6,784.3,large,clayey,117,27,48,6.5,apple,20176
+27.3,681.8,small,sandy,109,10,53,7.2,mango,9631
+23.9,623.9,medium,loamy,80,16,46,5.8,papaya,7582
+25.1,810.5,large,clayey,100,18,52,6,guava,10589
+28.2,568.1,small,sandy,91,7,53,6.2,coffee,3124
+26.3,733.8,medium,loamy,86,6,53,7,tea,5216
+24.5,856.7,large,clayey,107,5,52,6.8,rubber,9237
+25.8,655.4,small,sandy,103,16,49,6.5,cabbage,4569
+27.6,713.1,medium,loamy,101,20,48,6.8,cauliflower,5498
+23.5,509.8,large,clayey,85,25,47,6,broccoli,392
+22.5,105,small,clay,84,7,51,7,wheat,4000
+35,90,medium,sandy,102,28,54,6.5,rice,6000
+27.5,125,big,loam,98,25,52,5.8,corn,8000
+30,150,small,clay,97,25,50,4,soybeans,2000
+25,75,medium,sandy,90,16,45,7.5,barley,5000
+17.5,100,big,loam,95,12,46,6,oats,3000
+28,175,small,sandy,82,23,49,6.9,rye,4000
+32.5,200,medium,loam,82,25,51,6.3,sorghum,7000
+29,120,big,clay,110,28,46,7.5,sunflower,4000
+30,90,small,sandy,118,21,51,6.8,cotton,3000
+28,175,medium,loam,120,20,45,7,sugarcane,9000
+24,80,big,clay,91,7,52,6.5,tobacco,2310
+15,100,small,sandy,81,6,55,7.2,wheat,2000
+25,200,medium,loamy,101,13,54,5.8,rice,4000
+20,150,big,clay,101,17,55,6,maize,3000
+22,120,small,sandy,111,6,53,6.2,soybean,2500
+12,90,Medium,Loamy,107,10,49,7,Oat,2400
+24,180,Big,Clay,115,11,46,6.8,Sunflower,3500
+28,250,Small,Sandy,84,25,52,6.5,Peanut,4200
+20,110,Medium,Loamy,120,7,47,6.8,Lentil,2600
+22,120,Big,Clay,91,12,46,6,Chickpea,2800
+16,100,Small,Sandy,89,22,52,7,Potato,2000
+24,150,Medium,Loamy,113,19,46,6.5,Sweetcorn,3200
+18,90,Big,Clay,97,22,50,5.8,Broccoli,2400
+20,100,Small,Sandy,117,30,50,4,Cauliflower,2600
+16,80,Medium,Loamy,90,14,52,7.5,Cabbage,2000
+12,60,Big,Clay,104,23,47,6,Carrot,1800
+24,120,Small,Sandy,81,16,45,6.9,Tomato,2800
+26,150,Medium,Loamy,88,5,47,6.3,Pepper,3200
+28,180,Big,Clay,92,7,45,7.5,Eggplant,3800
+22,120,Small,Sandy,81,18,50,6.8,Cucumber,2700
+20,100,Medium,Loamy,111,5,55,7,Pumpkin,2400
+24,150,Small,Sandy,108,23,51,6.5,Muskmelon,3200
+18,80,Medium,Loamy,113,30,50,7.2,Strawberry,2000
+16,60,Big,Clay,83,10,53,5.8,Blueberry,1800
+22,120,Small,Sandy,101,11,51,6,Raspberry,2700
+25.6,56.3,small,loam,114,21,55,6.2,wheat,3.8
+22.1,67.8,medium,sandy,99,6,45,7,rice,6.2
+26.5,44.2,big,clay,92,20,55,6.8,wheat,4.1
+24.8,52.6,small,sandy,92,7,48,6.5,rice,5.9
+21.3,70.1,medium,loam,91,24,55,6.8,wheat,3.6
+27.2,38.5,big,clay,110,21,54,6,rice,7.1
+25.9,47.9,small,sandy,112,25,51,7,wheat,4.3
+23.4,62.4,medium,loam,89,25,54,6.5,rice,5.5
+26.8,41.7,big,clay,100,10,53,5.8,wheat,3.9
+24.6,50.3,small,sandy,83,22,54,4,rice,5.8
+20.9,73.6,medium,loam,95,14,50,7.5,wheat,3.4
+27.5,35.9,big,clay,119,30,49,6,rice,6.9
+25.2,45.6,small,sandy,97,12,47,6.9,wheat,4.5
+22.7,59.2,medium,loam,110,7,45,6.3,rice,5.3
+26.1,40.3,big,clay,96,18,50,7.5,wheat,3.7
+23.8,49.7,small,sandy,83,23,55,6.8,rice,5.6
+21.1,72.4,medium,loam,120,24,47,7,wheat,3.3
+27.8,34.2,big,clay,115,17,55,6.5,rice,6.7
+25.4,43.9,small,sandy,114,27,48,7.2,wheat,4.2
+20.5,500,Small,Sandy,101,25,52,5.8,Wheat,750
+24.2,800,Medium,Clayey,118,18,52,6,Wheat,900
+18.9,350,Big,Loamy,95,26,45,6.2,Wheat,650
+22.1,600,Small,Sandy,81,25,49,7,Wheat,800
+25.3,900,Medium,Clayey,117,24,53,6.8,Wheat,950
+27.8,1200,Big,Loamy,114,30,51,6.5,Rice,1100
+29.5,1000,Small,Sandy,113,6,52,6.8,Rice,900
+33.4,850,big,Clay,108,26,52,6.8,Corn,6900
+26.1,950,medium,Sandy,81,30,48,7,Peanuts,5100
+29.8,1050,small,Loamy,115,9,52,6.5,Lentils,3600
+31.2,1200,medium,Clay,83,7,45,7.2,Sugarcane,9000
+28.9,1300,big,Sandy,84,21,55,5.8,Millet,5800
+32.7,750,small,Loamy,109,26,45,6,Soybean,4200
+27.1,850,medium,Clay,95,27,55,6.2,Groundnut,5400
+30.1,1150,big,Sandy,119,5,55,7,Sunflower,6700
+30.5,950,small,Loamy,110,14,51,6.8,Potato,5000
+28.8,1250,small,Sandy,82,18,48,6.5,Millet,4500
+31.9,900,big,Clay,87,14,48,6.8,Corn,7800
+25.8,1000,medium,Loamy,85,9,53,6,Peanuts,5200
+29.5,1000,small,Sandy,100,6,53,7,Chickpea,4000
+30.6,1100,medium,Clay,107,12,46,6.5,Sugarcane,9200
+28.1,1350,big,Loamy,91,13,47,5.8,Cotton,6300
+30,120,Medium,Loam,102,25,50,4,Sugarcane,1200
+20,200,Big,Red,117,25,53,7.5,Cotton,500
+28,100,Small,Alluvial,85,21,52,6,Tomato,600
+26,80,Medium,Black,104,25,55,6.9,Groundnut,900
+29,150,Big,Sandy,102,24,54,6.3,Soybean,700
+24,180,Small,ClayeySoil,116,25,50,7.5,Potato,450
+32,90,Medium,LateriteSoil,100,17,48,6.8,Chickpea,1000
+31,70,Small,RedLoam,110,25,54,7,Mustard,800
+3,200,Small,AlluvialSoil,104,25,51,6.5,Millets,300
+22,150,Big,BlackSoil,107,11,54,7.2,Cotton,400
+28,100,Small,Red,98,26,52,5.8,Tomato,700
+26,80,Medium,Clayey,88,17,52,6,Groundnut,1000
+27,150,Big,Alluvial,87,25,46,6.2,Soybean,900
+25,180,Small,Sandy,120,8,46,7,Potato,600
+29,90,Medium,Laterite,95,13,46,6.8,Chickpea,1200
+30,70,Small,Red,108,22,47,6.5,Mustard,900
+23,200,Small,Alluvial,82,13,52,6.8,Millets,400
+31,120,Medium,Clay,120,23,55,6,Sugarcane,1000
+21,150,Big,Black,110,22,47,7,Cotton,500
+28,100,Small,Red,95,23,45,6.5,Tomato,600
+27,80,Medium,Clayey,106,10,49,5.8,Groundnut,800
+30,120,Medium,Clay,99,12,52,4,Sugarcane,1200
+20,200,Big,Red,106,20,51,7.5,Cotton,500
+28,100,Small,Alluvial,83,11,53,6,Tomato,600
+26,80,Medium,Black,117,19,55,6.9,Groundnut,900
+29,150,Big,Sandy,98,26,49,6.3,Soybean,700
+24,180,Small,Clayey,113,20,48,7.5,Potato,450
+32,90,Medium,Laterite,101,17,47,6.8,Chickpea,1000
+31,70,Small,Red,98,7,45,7,Mustard,800
+30.9,750,small,Clay,93,22,48,6.2,Soybean,1900
+26.2,850,medium,Sandy,95,21,47,7,Groundnut,3400
+28.9,1150,big,Loamy,109,12,48,6.8,Sunflower,4900
+29.2,950,small,Clay,118,12,47,6.5,Potato,5200
+29.8,1250,small,Clay,100,14,49,6.8,Wheat,3300
+31.9,800,medium,Sandy,89,9,47,6.8,Rice,5300
+25.5,950,big,Loamy,95,16,46,7,Maize,6200
+28.8,1100,small,Clay,95,7,45,6.5,Barley,2800
+30.1,1000,medium,Sandy,87,6,45,7.2,Sugarcane,8300
+27.7,1300,big,Loamy,93,20,50,5.8,Cotton,3900
+28.5,1200,small,Clay,84,29,49,6,Wheat,2900
+32.1,800,medium,Sandy,111,5,47,6.2,Rice,5100
+25.6,900,big,Loamy,111,5,52,7,Maize,6050
+29.3,1100,small,Clay,111,15,54,6.8,Barley,2550
+30.2,1000,medium,Sandy,89,11,47,6.5,Sugarcane,8200
+27.8,1400,big,Loamy,110,15,48,6.8,Cotton,3400
+31.5,700,small,Clay,95,30,52,6,Soybean,1950
+26.4,800,medium,Sandy,115,12,52,7,Groundnut,3100
+28.7,1200,big,Loamy,120,25,50,6.5,Sunflower,4520
+26.4,800,medium,Sandy,102,11,45,5.8,Groundnut,3100
+28.7,1200,big,Loamy,94,5,55,4,Sunflower,4520
+29.9,1000,small,Clay,84,18,46,7.5,Potato,5080
+27.3,900,small,Loamy,107,22,54,6,Wheat,3010
+33.4,850,big,Clay,80,18,52,6.9,Rice,5300
+26.1,950,medium,Sandy,86,18,45,6.3,Maize,6200
+29.8,1050,small,Loamy,113,28,48,7.5,Barley,2600
+31.2,1200,medium,Clay,115,18,53,6.8,Sugarcane,8300
+28.9,1300,big,Sandy,82,20,54,7,Cotton,3600
+32.7,750,small,Loamy,98,22,47,6.5,Soybean,2000
+27.1,850,medium,Clay,117,25,54,7.2,Groundnut,3200
+30.1,1150,big,Sandy,83,15,49,5.8,Sunflower,4600
+30.5,950,small,Loamy,120,16,51,6,Potato,5100
+28.8,1250,small,Sandy,111,5,50,6.2,Wheat,2950
+31.9,900,big,Clay,85,21,47,7,Rice,5200
+25.8,1000,medium,Loamy,90,23,54,6.8,Maize,6100
+29.5,1000,small,Sandy,99,29,55,6.5,Barley,2700
+30.6,1100,medium,Clay,102,11,47,6.8,Sugarcane,8400
+28.1,1350,big,Loamy,80,18,51,6.9,Cotton,3550
+28.5,1200,small,Clay,87,21,52,6.3,Wheat,2900
+32.1,800,medium,Sandy,114,8,52,7.5,Rice,5100
+25.6,900,big,Loamy,99,6,46,6.8,Maize,6050
+29.3,1100,small,Clay,89,25,50,7,Barley,2550
+30.2,1000,medium,Sandy,96,13,55,6.5,Sugarcane,8200
+27.8,1400,big,Loamy,82,26,47,7.2,Cotton,3400
+33.4,850,big,Clay,106,21,52,6.2,Corn,6900
+26.1,950,medium,Sandy,90,15,52,7,Peanuts,5100
+29.8,1050,small,Loamy,106,16,54,6.8,Lentils,3600
+31.2,1200,medium,Clay,24,128,196,6.5,Sugarcane,9000
+28.9,1300,big,Sandy,7,144,197,6.8,Millet,5800
+32.7,750,small,Loamy,14,128,205,6,Soybean,4200
+27.1,850,medium,Clay,8,120,201,7,Groundnut,5400
+30.1,1150,big,Sandy,20,129,201,6.5,Sunflower,6700
+30.5,950,small,Loamy,32,137,204,5.8,Potato,5000
+28.8,1250,small,Sandy,27,139,205,4,Millet,4500
+31.9,900,big,Clay,0,123,205,7.5,Corn,7800
+25.8,1000,medium,Loamy,22,144,196,6,Peanuts,5200
+29.5,1000,small,Sandy,1,124,199,6.9,Chickpea,4000
+30.6,1100,medium,Clay,30,122,197,6.3,Sugarcane,9200
+28.1,1350,big,Loamy,29,121,196,7.5,Cotton,6300
+30,120,Medium,Clay Loam,13,126,204,6.8,Sugarcane,1200
+20,200,Big,Red Loam,9,139,199,7,Cotton,500
+28,100,Small,Alluvial   ,0,133,200,6.5,Tomato,600
+26,80,Medium,Black,30,143,199,7.2,Groundnut,900
+29,150,Big,Sandy,36,140,198,5.8,Soybean,700
+24,180,Small,Clayey,37,137,199,6,Potato,450
+32,90,Medium,Laterite,33,121,203,6.2,Chickpea,1000
+31,70,Small,Red Loam,7,144,195,7,Mustard,800
+3,200,Small,Alluvial,35,128,205,6.8,Millets,300
+22,150,Big,Black,29,128,198,6.5,Cotton,400
+28,100,Small,Red,2,143,196,6.8,Tomato,700
+26,80,Medium,Clayey,34,140,198,6.9,Groundnut,1000
+27,150,Big,Alluvial,29,144,204,6.3,Soybean,900
+25,180,Small,Sandy,32,141,203,7.5,Potato,600
+29,90,Medium,Laterite,13,144,197,6.8,Chickpea,1200
+30,70,Small,Red Loam,25,143,198,7,Mustard,900
+23,200,Small,Alluvial,9,137,200,6.5,Millets,400
+31,120,Medium,Clay Loam,6,144,198,7.2,Sugarcane,1000
+21,150,Big,Black,37,126,196,6.5,Cotton,500
+28,100,Small,Red,2,120,203,6.8,Tomato,600
+27,80,Medium,Clayey,11,143,197,6.9,Groundnut,800
+30,120,Medium,Clay Loam,10,141,201,6.3,Sugarcane,1200
+20,200,Big,Red,24,142,202,7.5,Cotton,500
+28,100,Small,Alluvial,23,138,195,6.8,Tomato,600
+26,80,Medium,Black,18,125,204,7,Groundnut,900
+29,150,Big,Sandy,13,121,196,6.5,Soybean,700
+24,180,Small,Clayey,26,122,202,7.2,Potato,450
+32,90,Medium,Laterite,28,123,202,6,Chickpea,1000
+31,70,Small,Red Loam,26,121,201,7,Mustard,800
